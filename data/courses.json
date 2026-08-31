@@ -1,0 +1,2610 @@
+{
+  "notice": "Información académica basada en el Currículo del Programa de Estudios de Física 2018 de la Universidad Nacional de Trujillo.",
+  "curriculumName": "Currículo del Programa de Estudios de Física",
+  "curriculumYear": "2018",
+  "cycles": [
+    {
+      "cycle": "I",
+      "courses": [
+        {
+          "id": "1-1-introduccion-al-analisis-matematico",
+          "code": "1.1",
+          "name": "Introducción al Análisis Matemático",
+          "credits": 4,
+          "type": "Estudios generales (EG)",
+          "theoryHours": 2,
+          "practiceHours": 4,
+          "weeklyHours": 6,
+          "prerequisites": [],
+          "department": "Matemática",
+          "description": "Aborda el eje numérico. Valor absoluto y distancia entre puntos. El plano cartesiano. Distancia entre puntos. Relaciones que ligan las coordenadas. Ecuaciones de la recta y las cónicas…",
+          "syllabusUrl": "",
+          "bibliography": [],
+          "status": "Currículo 2018"
+        },
+        {
+          "id": "1-2-algebra-y-geometria",
+          "code": "1.2",
+          "name": "Álgebra y Geometría",
+          "credits": 4,
+          "type": "Estudios específicos (EE)",
+          "theoryHours": 2,
+          "practiceHours": 4,
+          "weeklyHours": 6,
+          "prerequisites": [],
+          "department": "Matemática",
+          "description": "Aborda ecuaciones y desigualdades. Coordenadas rectangulares, geometría elemental, funciones y gráficas. Funciones polinomiales y racionales, ceros de polinomios. Funciones inversa…",
+          "syllabusUrl": "",
+          "bibliography": [],
+          "status": "Currículo 2018"
+        },
+        {
+          "id": "1-3-fisica-general",
+          "code": "1.3",
+          "name": "Física General",
+          "credits": 4,
+          "type": "Estudios generales (EG)",
+          "theoryHours": 2,
+          "practiceHours": 4,
+          "weeklyHours": 6,
+          "prerequisites": [],
+          "department": "Física",
+          "description": "Aborda naturaleza de la teoría científica. Magnitudes escalares y vectoriales. Concepto y tipos de movimiento. Caída de los cuerpos. Movimientos compuestos y circular…",
+          "syllabusUrl": "",
+          "bibliography": [],
+          "status": "Currículo 2018"
+        },
+        {
+          "id": "1-4-desarrollo-del-pensamiento-logico-matematico",
+          "code": "1.4",
+          "name": "Desarrollo del Pensamiento Lógico Matemático",
+          "credits": 3,
+          "type": "Estudios generales (EG)",
+          "theoryHours": 2,
+          "practiceHours": 2,
+          "weeklyHours": 4,
+          "prerequisites": [],
+          "department": "Matemática",
+          "description": "Aborda lógica, pensamiento matemático y lenguaje simbólico. Lógica de cuantificadores. Lenguaje y validez sintáctica. Lógica proposicional y teoría de conjuntos…",
+          "syllabusUrl": "",
+          "bibliography": [],
+          "status": "Currículo 2018"
+        },
+        {
+          "id": "1-5-lectura-critica-y-redaccion-de-textos-academicos",
+          "code": "1.5",
+          "name": "Lectura Crítica y Redacción de Textos Académicos",
+          "credits": 3,
+          "type": "Estudios generales (EG)",
+          "theoryHours": 2,
+          "practiceHours": 2,
+          "weeklyHours": 4,
+          "prerequisites": [],
+          "department": "Lengua y Literatura",
+          "description": "Aborda niveles de comprensión lectora: Literal e inferencial. Ejercicios Nivel de comprensión lectora: crítica. Ejercicios. Estrategias de producción de textos La redacción académica: técnicas…",
+          "syllabusUrl": "",
+          "bibliography": [],
+          "status": "Currículo 2018"
+        },
+        {
+          "id": "1-6-desarrollo-personal",
+          "code": "1.6",
+          "name": "Desarrollo Personal",
+          "credits": 3,
+          "type": "Estudios generales (EG)",
+          "theoryHours": 2,
+          "practiceHours": 2,
+          "weeklyHours": 4,
+          "prerequisites": [],
+          "department": "Ciencias Psicológicas",
+          "description": "Aborda análisis y estudio de las bases científicas de los procesos bio-psico-sociales Etapas de desarrollo del ser humano Autonomía, emprendimiento y desarrollo personal Plan de vida.",
+          "syllabusUrl": "",
+          "bibliography": [],
+          "status": "Currículo 2018"
+        },
+        {
+          "id": "electivo-eg-i",
+          "code": "Electivo EG I",
+          "name": "Electivo de Estudios Generales I",
+          "credits": 1,
+          "type": "Electivo (EG)",
+          "theoryHours": 0,
+          "practiceHours": 2,
+          "weeklyHours": 2,
+          "prerequisites": [],
+          "department": "Según experiencia elegida",
+          "description": "Aborda elegir una de las tres experiencias curriculares indicadas por el Currículo 2018.",
+          "syllabusUrl": "",
+          "bibliography": [],
+          "status": "Currículo 2018",
+          "options": [
+            {
+              "name": "Taller de Técnicas de Comunicación Eficaz",
+              "credits": 1,
+              "theoryHours": 0,
+              "practiceHours": 2,
+              "prerequisites": [],
+              "description": "Aborda tipos de comunicación Técnicas de comunicación eficaz Aspectos que mejoran la comunicación eficaz Comunicación virtual."
+            },
+            {
+              "name": "Taller de Música",
+              "credits": 1,
+              "theoryHours": 0,
+              "practiceHours": 2,
+              "prerequisites": [],
+              "description": "Aborda taller de música I Taller de música II Taller de música III Taller de música IV."
+            },
+            {
+              "name": "Taller de Liderazgo y Trabajo en Equipo",
+              "credits": 1,
+              "theoryHours": 0,
+              "practiceHours": 2,
+              "prerequisites": [],
+              "description": "Aborda el liderazgo y el líder: naturaleza, características, formas, importancia. Los procesos de formación de liderazgo. El trabajo en equipo: formas e importancia…"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cycle": "II",
+      "courses": [
+        {
+          "id": "2-1-analisis-matematico",
+          "code": "2.1",
+          "name": "Análisis Matemático",
+          "credits": 4,
+          "type": "Estudios generales (EG)",
+          "theoryHours": 2,
+          "practiceHours": 4,
+          "weeklyHours": 6,
+          "prerequisites": [
+            "1.1"
+          ],
+          "department": "Matemática",
+          "description": "Aborda derivada de una función. Interpretación geométrica de la derivada Derivadas de las funciones elementales. Álgebra de derivadas. Regla de la cadena. Teorema del valor medio de Lagrange…",
+          "syllabusUrl": "",
+          "bibliography": [],
+          "status": "Currículo 2018"
+        },
+        {
+          "id": "2-2-estadistica-general",
+          "code": "2.2",
+          "name": "Estadística General",
+          "credits": 4,
+          "type": "Estudios generales (EG)",
+          "theoryHours": 2,
+          "practiceHours": 4,
+          "weeklyHours": 6,
+          "prerequisites": [],
+          "department": "Estadística",
+          "description": "Aborda conceptos y métodos propios de la Estadística descriptiva Técnicas de recolección de datos, Tabulación de datos cualitativos y cuantitativos unidimensionales y bidimensionales…",
+          "syllabusUrl": "",
+          "bibliography": [],
+          "status": "Currículo 2018"
+        },
+        {
+          "id": "2-3-fisica-1",
+          "code": "2.3",
+          "name": "Física 1",
+          "credits": 3,
+          "type": "Estudios específicos (EE)",
+          "theoryHours": 2,
+          "practiceHours": 2,
+          "weeklyHours": 4,
+          "prerequisites": [
+            "1.1"
+          ],
+          "department": "Física",
+          "description": "Aborda cinemática de una partícula, desplazamiento, velocidad y aceleración. Dinámica de una partícula, leyes de Newton, interacciones. Trabajo, energía cinética…",
+          "syllabusUrl": "",
+          "bibliography": [],
+          "status": "Currículo 2018"
+        },
+        {
+          "id": "2-4-fisica-experimental-1",
+          "code": "2.4",
+          "name": "Física Experimental 1",
+          "credits": 2,
+          "type": "Estudios específicos (EE)",
+          "theoryHours": 0,
+          "practiceHours": 4,
+          "weeklyHours": 4,
+          "prerequisites": [],
+          "department": "Física",
+          "description": "Aborda fundamentos estadísticos en el análisis de los datos experimentales. Diversas experiencias con equipos e instrumentos de laboratorio relacionados con Física 1.",
+          "syllabusUrl": "",
+          "bibliography": [],
+          "status": "Currículo 2018"
+        },
+        {
+          "id": "2-5-sociedad-cultura-y-ecologia",
+          "code": "2.5",
+          "name": "Sociedad, Cultura y Ecología",
+          "credits": 3,
+          "type": "Estudios generales (EG)",
+          "theoryHours": 2,
+          "practiceHours": 2,
+          "weeklyHours": 4,
+          "prerequisites": [],
+          "department": "Historia y Geografía",
+          "description": "Aborda tópicos y/o problemas actuales relacionados con la sociedad, tanto a nivel local nacional como mundial, y relacionados con su ámbito profesional…",
+          "syllabusUrl": "",
+          "bibliography": [],
+          "status": "Currículo 2018"
+        },
+        {
+          "id": "2-6-etica-convivencia-humana-y-ciudadania",
+          "code": "2.6",
+          "name": "Ética, Convivencia Humana y Ciudadanía",
+          "credits": 3,
+          "type": "Estudios generales (EG)",
+          "theoryHours": 2,
+          "practiceHours": 2,
+          "weeklyHours": 4,
+          "prerequisites": [],
+          "department": "Filosofía y Arte",
+          "description": "Aborda ¿Por qué ética y ciudadanía en el Perú de hoy? Reflexiones en torno al debate contemporáneo de la universalidad de los derechos humanos Mínimos éticos para una convivencia ciudadana en el…",
+          "syllabusUrl": "",
+          "bibliography": [],
+          "status": "Currículo 2018"
+        },
+        {
+          "id": "2-7-cultura-investigativa-y-pensamiento-critico",
+          "code": "2.7",
+          "name": "Cultura Investigativa y Pensamiento Crítico",
+          "credits": 3,
+          "type": "Estudios generales (EG)",
+          "theoryHours": 2,
+          "practiceHours": 2,
+          "weeklyHours": 4,
+          "prerequisites": [],
+          "department": "Física",
+          "description": "Aborda cultura investigativa: características, desarrollo, aplicación e implicancias. Estrategias par a el desarrollo del pensamiento crítico y aplicaciones en su contexto…",
+          "syllabusUrl": "",
+          "bibliography": [],
+          "status": "Currículo 2018"
+        },
+        {
+          "id": "electivo-eg-ii",
+          "code": "Electivo EG II",
+          "name": "Electivo de Estudios Generales II",
+          "credits": 1,
+          "type": "Electivo (EG)",
+          "theoryHours": 0,
+          "practiceHours": 2,
+          "weeklyHours": 2,
+          "prerequisites": [],
+          "department": "Según experiencia elegida",
+          "description": "Aborda elegir una de las tres experiencias curriculares indicadas por el Currículo 2018.",
+          "syllabusUrl": "",
+          "bibliography": [],
+          "status": "Currículo 2018",
+          "options": [
+            {
+              "name": "Taller de Manejo de TIC",
+              "credits": 1,
+              "theoryHours": 0,
+              "practiceHours": 2,
+              "prerequisites": [],
+              "description": "Aborda creación de textos, artículos, módulos, revistas con Microsoft office. Procesador de textos Matemáticos, Látex entre otros. Herramientas de Google…"
+            },
+            {
+              "name": "Taller de Danzas Folclóricas",
+              "credits": 1,
+              "theoryHours": 0,
+              "practiceHours": 2,
+              "prerequisites": [],
+              "description": "Aborda las Danzas folclóricas típicas como expresiones culturales. Tipos de Danzas Folclóricas del Perú. Talleres de danzas folclóricas típicas regionales…"
+            },
+            {
+              "name": "Taller de Deporte",
+              "credits": 1,
+              "theoryHours": 0,
+              "practiceHours": 2,
+              "prerequisites": [],
+              "description": "Aborda futbol, vóleibol, Básquetbol. Natación. Atletismo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cycle": "III",
+      "courses": [
+        {
+          "id": "3-1-analisis-matematico-1",
+          "code": "3.1",
+          "name": "Análisis Matemático 1",
+          "credits": 5,
+          "type": "Estudios específicos (EE)",
+          "theoryHours": 3,
+          "practiceHours": 4,
+          "weeklyHours": 7,
+          "prerequisites": [
+            "2.1"
+          ],
+          "department": "Matemática",
+          "description": "Aborda cálculo de volúmenes usando secciones transversales y cascarones cilíndricos. Longitud de arco. Áreas de superficies de revolución. Funciones trascendentes: logarítmicas, exponenciales…",
+          "syllabusUrl": "",
+          "bibliography": [],
+          "status": "Currículo 2018"
+        },
+        {
+          "id": "3-2-algebra-lineal",
+          "code": "3.2",
+          "name": "Álgebra Lineal",
+          "credits": 5,
+          "type": "Estudios específicos (EE)",
+          "theoryHours": 3,
+          "practiceHours": 4,
+          "weeklyHours": 7,
+          "prerequisites": [
+            "1.2"
+          ],
+          "department": "Matemática",
+          "description": "Aborda vectores en. Sistemas de ecuaciones lineales, eliminación gaussiana y reducción de Gauss –Jordan, independencia lineal. Álgebra, operaciones y propiedades de matrices…",
+          "syllabusUrl": "",
+          "bibliography": [],
+          "status": "Currículo 2018"
+        },
+        {
+          "id": "3-3-fisica-2",
+          "code": "3.3",
+          "name": "Física 2",
+          "credits": 5,
+          "type": "Estudios específicos (EE)",
+          "theoryHours": 3,
+          "practiceHours": 4,
+          "weeklyHours": 7,
+          "prerequisites": [
+            "2.1",
+            "2.3"
+          ],
+          "department": "Física",
+          "description": "Aborda estática y dinámica de fluidos. Oscilaciones armónicas simples, energía y superposición de oscilaciones. Oscilaciones amortiguadas, forzadas y resonancia…",
+          "syllabusUrl": "",
+          "bibliography": [],
+          "status": "Currículo 2018"
+        },
+        {
+          "id": "3-4-fisica-experimental-2",
+          "code": "3.4",
+          "name": "Física Experimental 2",
+          "credits": 2,
+          "type": "Estudios específicos (EE)",
+          "theoryHours": 0,
+          "practiceHours": 4,
+          "weeklyHours": 4,
+          "prerequisites": [
+            "2.3",
+            "2.4"
+          ],
+          "department": "Física",
+          "description": "Aborda fundamentos estadísticos en el análisis de los datos experimentales. Diversas experiencias con equipos e instrumentos de laboratorio, relacionados con Física 2.",
+          "syllabusUrl": "",
+          "bibliography": [],
+          "status": "Currículo 2018"
+        },
+        {
+          "id": "3-5-quimica",
+          "code": "3.5",
+          "name": "Química",
+          "credits": 5,
+          "type": "Estudios específicos (EE)",
+          "theoryHours": 3,
+          "practiceHours": 4,
+          "weeklyHours": 7,
+          "prerequisites": [],
+          "department": "Química",
+          "description": "Aborda estructura del átomo, molécula y iones. Balance de masa y reacciones químicas. Reacciones de precipitación, acido –base y oxidación –reducción. Gases ideales y teoría cinética molecular…",
+          "syllabusUrl": "",
+          "bibliography": [],
+          "status": "Currículo 2018"
+        }
+      ]
+    },
+    {
+      "cycle": "IV",
+      "courses": [
+        {
+          "id": "4-1-analisis-matematico-2",
+          "code": "4.1",
+          "name": "Análisis Matemático 2",
+          "credits": 5,
+          "type": "Estudios específicos (EE)",
+          "theoryHours": 3,
+          "practiceHours": 4,
+          "weeklyHours": 7,
+          "prerequisites": [
+            "3.1"
+          ],
+          "department": "Matemática",
+          "description": "Aborda geometría del espacio, cuadráticas, coordenadas cilíndricas y esféricas. Cálculo vectorial de una variable real. Funciones de varias variables, límite y continuidad, derivadas parciales…",
+          "syllabusUrl": "",
+          "bibliography": [],
+          "status": "Currículo 2018"
+        },
+        {
+          "id": "4-2-fisica-matematica-1",
+          "code": "4.2",
+          "name": "Física Matemática 1",
+          "credits": 5,
+          "type": "Estudios específicos (EE)",
+          "theoryHours": 3,
+          "practiceHours": 4,
+          "weeklyHours": 7,
+          "prerequisites": [
+            "3.1",
+            "3.2"
+          ],
+          "department": "Física y/o Matemática",
+          "description": "Aborda ecuaciones diferenciales de primer orden, métodos de solución y aplicaciones. Ecuaciones diferenciales lineales de segundo orden y orden superior, con coeficientes constantes…",
+          "syllabusUrl": "",
+          "bibliography": [],
+          "status": "Currículo 2018"
+        },
+        {
+          "id": "4-3-fisica-3",
+          "code": "4.3",
+          "name": "Física 3",
+          "credits": 5,
+          "type": "Estudios específicos (EE)",
+          "theoryHours": 3,
+          "practiceHours": 4,
+          "weeklyHours": 7,
+          "prerequisites": [
+            "3.1",
+            "3.3"
+          ],
+          "department": "Física",
+          "description": "Aborda campo y potencial gravitacional. Ley de Coulomb, campo eléctrico y ley de Gauss. Potencial eléctrico y energía potencial. Capacitancia y dieléctricos. Corriente eléctrica, ley de Ohm…",
+          "syllabusUrl": "",
+          "bibliography": [],
+          "status": "Currículo 2018"
+        },
+        {
+          "id": "4-4-fisica-experimental-3",
+          "code": "4.4",
+          "name": "Física Experimental 3",
+          "credits": 2,
+          "type": "Estudios específicos (EE)",
+          "theoryHours": 0,
+          "practiceHours": 4,
+          "weeklyHours": 4,
+          "prerequisites": [
+            "3.3",
+            "3.4"
+          ],
+          "department": "Física",
+          "description": "Aborda : Fundamentos estadísticos en el análisis de los datos experimentales. Diversas experiencias con equipos e instrumentos de laboratorio, relacionados con Física 3.",
+          "syllabusUrl": "",
+          "bibliography": [],
+          "status": "Currículo 2018"
+        },
+        {
+          "id": "4-5-introduccion-a-la-programacion",
+          "code": "4.5",
+          "name": "Introducción a la Programación",
+          "credits": 5,
+          "type": "Estudios específicos (EE)",
+          "theoryHours": 3,
+          "practiceHours": 4,
+          "weeklyHours": 7,
+          "prerequisites": [],
+          "department": "Matemática o Informática",
+          "description": "Aborda : Software matemático: Matlab, Scilab, Derive 6, Mathematica, Maple Lenguajes de programación C, Fortran 95 y Python 2.5. Conceptos de algoritmo, diseño…",
+          "syllabusUrl": "",
+          "bibliography": [],
+          "status": "Currículo 2018"
+        }
+      ]
+    },
+    {
+      "cycle": "V",
+      "courses": [
+        {
+          "id": "5-1-fisica-matematica-2",
+          "code": "5.1",
+          "name": "Física Matemática 2",
+          "credits": 5,
+          "type": "Estudios específicos (EE)",
+          "theoryHours": 3,
+          "practiceHours": 4,
+          "weeklyHours": 7,
+          "prerequisites": [
+            "4.1",
+            "4.2"
+          ],
+          "department": "Física",
+          "description": "Aborda series de Fourier, convergencia de series de Fourier. Ecuaciones diferenciales parciales de la física, de la onda, del calor y del potencial, operadores lineales y método de Fourier…",
+          "syllabusUrl": "",
+          "bibliography": [],
+          "status": "Currículo 2018"
+        },
+        {
+          "id": "5-2-mecanica-clasica",
+          "code": "5.2",
+          "name": "Mecánica Clásica",
+          "credits": 6,
+          "type": "Especialidad (ES)",
+          "theoryHours": 4,
+          "practiceHours": 4,
+          "weeklyHours": 8,
+          "prerequisites": [
+            "4.2",
+            "4.3"
+          ],
+          "department": "Física",
+          "description": "Aborda formulación de la Mecánica Lagrangiana y de la Mecánica Hamiltoniana, variables cíclicas y función de Routh, Leyes de Conservación y Simetrías. Fuerzas Centrales, teorema del virial…",
+          "syllabusUrl": "",
+          "bibliography": [],
+          "status": "Currículo 2018"
+        },
+        {
+          "id": "5-3-fisica-4",
+          "code": "5.3",
+          "name": "Física 4",
+          "credits": 5,
+          "type": "Estudios específicos (EE)",
+          "theoryHours": 3,
+          "practiceHours": 4,
+          "weeklyHours": 7,
+          "prerequisites": [
+            "4.1",
+            "4.3"
+          ],
+          "department": "Física",
+          "description": "Aborda relatividad especial de Einstein, cuadrivectores. Radiación térmica. Efectos fotoeléctrico y Compton. Postulado de De Broglie y paquetes de ondas. Principio de incertidumbre…",
+          "syllabusUrl": "",
+          "bibliography": [],
+          "status": "Currículo 2018"
+        },
+        {
+          "id": "5-4-fisica-experimental-4",
+          "code": "5.4",
+          "name": "Física Experimental 4",
+          "credits": 2,
+          "type": "Estudios específicos (EE)",
+          "theoryHours": 0,
+          "practiceHours": 4,
+          "weeklyHours": 4,
+          "prerequisites": [
+            "4.3",
+            "4.4"
+          ],
+          "department": "Física",
+          "description": "Aborda fundamentos estadísticos en el análisis de los datos experimentales. Diversas experiencias con equipos e instrumentos de laboratorio, relacionados con Física 4.",
+          "syllabusUrl": "",
+          "bibliography": [],
+          "status": "Currículo 2018"
+        },
+        {
+          "id": "5-5-fisica-computacional",
+          "code": "5.5",
+          "name": "Física Computacional",
+          "credits": 5,
+          "type": "Estudios específicos (EE)",
+          "theoryHours": 3,
+          "practiceHours": 4,
+          "weeklyHours": 7,
+          "prerequisites": [
+            "4.3",
+            "4.5"
+          ],
+          "department": "Física",
+          "description": "Aborda repaso Matlab o C++ . Interpolación de Lagrange, interpolación Lineal y mínimos cuadrados, aplicaciones. Discusión general de derivadas con computadoras, diferencia hacia adelante…",
+          "syllabusUrl": "",
+          "bibliography": [],
+          "status": "Currículo 2018"
+        }
+      ]
+    },
+    {
+      "cycle": "VI",
+      "courses": [
+        {
+          "id": "6-1-fisica-matematica-3",
+          "code": "6.1",
+          "name": "Física Matemática 3",
+          "credits": 5,
+          "type": "Estudios específicos (EE)",
+          "theoryHours": 3,
+          "practiceHours": 4,
+          "weeklyHours": 7,
+          "prerequisites": [
+            "5.1"
+          ],
+          "department": "Física",
+          "description": "Aborda funciones de Green. Ecuaciones integrales Funciones de variable compleja, propiedades analíticas, formula integral de Cauchy, series complejas, cálculo de residuos…",
+          "syllabusUrl": "",
+          "bibliography": [],
+          "status": "Currículo 2018"
+        },
+        {
+          "id": "6-2-electromagnetismo-1",
+          "code": "6.2",
+          "name": "Electromagnetismo 1",
+          "credits": 5,
+          "type": "Especialidad (ES)",
+          "theoryHours": 3,
+          "practiceHours": 4,
+          "weeklyHours": 7,
+          "prerequisites": [
+            "5.1",
+            "5.2"
+          ],
+          "department": "Física",
+          "description": "Aborda electrostática. Ecuaciones diferenciales de la electrostática. Problemas electrostáticos con condiciones de contorno. Funciones de Green. Método de separación de variables…",
+          "syllabusUrl": "",
+          "bibliography": [],
+          "status": "Currículo 2018"
+        },
+        {
+          "id": "6-3-mecanica-cuantica-1",
+          "code": "6.3",
+          "name": "Mecánica Cuántica 1",
+          "credits": 5,
+          "type": "Especialidad (ES)",
+          "theoryHours": 3,
+          "practiceHours": 4,
+          "weeklyHours": 7,
+          "prerequisites": [
+            "5.1",
+            "5.3"
+          ],
+          "department": "Física",
+          "description": "Aborda la función de onda y su interpretación estadística. Ecuación de Schrödinger y sistemas cuánticos en una dimensión, condiciones de contorno. Formalismo general de la teoría cuántica…",
+          "syllabusUrl": "",
+          "bibliography": [],
+          "status": "Currículo 2018"
+        },
+        {
+          "id": "6-4-electronica-1",
+          "code": "6.4",
+          "name": "Electrónica 1",
+          "credits": 5,
+          "type": "Estudios específicos (EE)",
+          "theoryHours": 2,
+          "practiceHours": 6,
+          "weeklyHours": 8,
+          "prerequisites": [
+            "4.3",
+            "4.4"
+          ],
+          "department": "Física",
+          "description": "Aborda semiconductores, diodo de unión PN, circuito con diodos, diodo zener. El transistor de unión BJT. El transistor de efecto de campo FET. Diversos circuitos de polarización para transistores…",
+          "syllabusUrl": "",
+          "bibliography": [],
+          "status": "Currículo 2018"
+        },
+        {
+          "id": "6-5-historia-de-la-fisica",
+          "code": "6.5",
+          "name": "Historia de la Física",
+          "credits": 2,
+          "type": "Estudios específicos (EE)",
+          "theoryHours": 1,
+          "practiceHours": 2,
+          "weeklyHours": 3,
+          "prerequisites": [],
+          "department": "Física",
+          "description": "Aborda la aurora de la física: Pitágoras y la ley de la cuerda vibrante, Demócrito, el atomista. La física aristotélica. Arquímedes: la ley de la palanca…",
+          "syllabusUrl": "",
+          "bibliography": [],
+          "status": "Currículo 2018"
+        }
+      ]
+    },
+    {
+      "cycle": "VII",
+      "courses": [
+        {
+          "id": "7-1-mecanica-estadistica-y-termodinamica",
+          "code": "7.1",
+          "name": "Mecánica Estadística y Termodinámica",
+          "credits": 5,
+          "type": "Especialidad (ES)",
+          "theoryHours": 3,
+          "practiceHours": 4,
+          "weeklyHours": 7,
+          "prerequisites": [
+            "6.3"
+          ],
+          "department": "Física",
+          "description": "Aborda conceptos, postulad os fundamentales y métodos de la mecánica estadística. Especificación del estado de un sistema aislado de partículas distinguibles e indistinguibles…",
+          "syllabusUrl": "",
+          "bibliography": [],
+          "status": "Currículo 2018"
+        },
+        {
+          "id": "7-2-electromagnetismo-2",
+          "code": "7.2",
+          "name": "Electromagnetismo 2",
+          "credits": 5,
+          "type": "Especialidad (ES)",
+          "theoryHours": 3,
+          "practiceHours": 4,
+          "weeklyHours": 7,
+          "prerequisites": [
+            "6.2"
+          ],
+          "department": "Física",
+          "description": "Aborda ecuaciones de maxwell, Condiciones de Contorno, Leyes de conservación de carga, energía y momento; ondas electromagnéticas en vacío y dieléctrico s…",
+          "syllabusUrl": "",
+          "bibliography": [],
+          "status": "Currículo 2018"
+        },
+        {
+          "id": "7-3-mecanica-cuantica-2",
+          "code": "7.3",
+          "name": "Mecánica Cuántica 2",
+          "credits": 5,
+          "type": "Especialidad (ES)",
+          "theoryHours": 3,
+          "practiceHours": 4,
+          "weeklyHours": 7,
+          "prerequisites": [
+            "6.3"
+          ],
+          "department": "Física",
+          "description": "Aborda métodos aproximados, teoría de perturbaciones, método variacional. Aproximación clásica y método WKB. Efecto Zeeman y Stark. Sistemas de varias partículas…",
+          "syllabusUrl": "",
+          "bibliography": [],
+          "status": "Currículo 2018"
+        },
+        {
+          "id": "electivo-es-2",
+          "code": "E.E. 2",
+          "name": "Electivo de Especialidad 2",
+          "credits": 4,
+          "type": "Electivo de especialidad (ES)",
+          "theoryHours": null,
+          "practiceHours": null,
+          "weeklyHours": null,
+          "prerequisites": [],
+          "department": "Física",
+          "description": "Aborda elegir una de dos experiencias curriculares del bloque E.E. 2.",
+          "syllabusUrl": "",
+          "bibliography": [],
+          "status": "Currículo 2018",
+          "options": [
+            {
+              "code": "7.4",
+              "name": "Electrónica 2",
+              "credits": 4,
+              "theoryHours": 2,
+              "practiceHours": 4,
+              "prerequisites": [
+                "6.4"
+              ],
+              "description": "Aborda amplificadores operacionales y filtros activos. Circuitos basculadores Flip Flop. Circuitos secuenciales síncronos y asíncronos. Conversión análogo –digital y digital– análogo…"
+            },
+            {
+              "code": "7.5",
+              "name": "Dinámica de Fluidos",
+              "credits": 4,
+              "theoryHours": 3,
+              "practiceHours": 2,
+              "prerequisites": [
+                "5.2"
+              ],
+              "description": "Aborda estática de fluidos. Modelos matemáticos del movimiento de los fluidos. Análisis dimensional y similitud. Flujo en capa límite y flujo de tuberías. Flujo potencial incompresible…"
+            }
+          ]
+        },
+        {
+          "id": "electivo-es-1",
+          "code": "E.E. 1",
+          "name": "Electivo de Especialidad 1",
+          "credits": 3,
+          "type": "Electivo de especialidad (EE)",
+          "theoryHours": null,
+          "practiceHours": null,
+          "weeklyHours": null,
+          "prerequisites": [],
+          "department": "Física",
+          "description": "Aborda elegir una de tres experiencias curriculares del bloque E.E. 1.",
+          "syllabusUrl": "",
+          "bibliography": [],
+          "status": "Currículo 2018",
+          "options": [
+            {
+              "code": "7.6",
+              "name": "Astronomía",
+              "credits": 3,
+              "theoryHours": 2,
+              "practiceHours": 2,
+              "prerequisites": [
+                "4.3",
+                "4.4"
+              ],
+              "description": "Aborda astronomía de posición. Instrumentos astronómicos. Elementos de mecánica celeste. Astronomía planetaria, nuestro sistema solar. Astronomía estelar, planetas extrasolares…"
+            },
+            {
+              "code": "7.7",
+              "name": "Gestión de Proyectos Científicos",
+              "credits": 3,
+              "theoryHours": 2,
+              "practiceHours": 2,
+              "prerequisites": [],
+              "description": "Aborda procesos de investigación, innovación y desarrollo, Gestión de Proyectos, génesis de la idea del proyecto, problema a resolver, objetivos y supuestos guía de la investigación…"
+            },
+            {
+              "code": "7.8",
+              "name": "Teoría de la Información",
+              "credits": 3,
+              "theoryHours": 2,
+              "practiceHours": 2,
+              "prerequisites": [
+                "5.5",
+                "6.3"
+              ],
+              "description": "Aborda introducción a la teoría de la información. Entropía y medida de la cantidad de información. Probabilidad. Aspectos físicos de la transmi sión de datos…"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cycle": "VIII",
+      "courses": [
+        {
+          "id": "8-1-fisica-de-materiales-1",
+          "code": "8.1",
+          "name": "Física de Materiales 1",
+          "credits": 5,
+          "type": "Especialidad (ES)",
+          "theoryHours": 2,
+          "practiceHours": 6,
+          "weeklyHours": 8,
+          "prerequisites": [
+            "7.1",
+            "7.2"
+          ],
+          "department": "Física",
+          "description": "Aborda microestructura de materiales, Defectos Cristalinos, propiedades Termodiná micas, ópticas, eléctricas, magnéticas, mecánicas y de superficie de materiales sólidos; Difusión…",
+          "syllabusUrl": "",
+          "bibliography": [],
+          "status": "Currículo 2018"
+        },
+        {
+          "id": "8-2-fisica-del-estado-solido",
+          "code": "8.2",
+          "name": "Física del Estado Sólido",
+          "credits": 5,
+          "type": "Especialidad (ES)",
+          "theoryHours": 3,
+          "practiceHours": 4,
+          "weeklyHours": 7,
+          "prerequisites": [
+            "7.1"
+          ],
+          "department": "Física",
+          "description": "Aborda estructura cristalina, Difracción por un cristal y una red recíproca, Enlace cristalino, Constantes elásticas y Ondas elásticas, Fenómenos y vibraciones de red…",
+          "syllabusUrl": "",
+          "bibliography": [],
+          "status": "Currículo 2018"
+        },
+        {
+          "id": "8-3-fisica-nuclear",
+          "code": "8.3",
+          "name": "Física Nuclear",
+          "credits": 5,
+          "type": "Especialidad (ES)",
+          "theoryHours": 3,
+          "practiceHours": 4,
+          "weeklyHours": 7,
+          "prerequisites": [
+            "7.2",
+            "7.3"
+          ],
+          "department": "Física",
+          "description": "Aborda propiedades generales de los núcleos, desintegraciones nucleares, fuerzas nucleares, deuterón y colisiones nucleón -nucleón, modelos nucleares, modelo de la gota líquida, modelo de capas…",
+          "syllabusUrl": "",
+          "bibliography": [],
+          "status": "Currículo 2018"
+        },
+        {
+          "id": "8-4-instrumentacion-cientifica",
+          "code": "8.4",
+          "name": "Instrumentación Científica",
+          "credits": 4,
+          "type": "Especialidad (ES)",
+          "theoryHours": 2,
+          "practiceHours": 4,
+          "weeklyHours": 6,
+          "prerequisites": [
+            "5.4",
+            "5.5",
+            "6.4"
+          ],
+          "department": "Física",
+          "description": "Aborda principios de funcionamiento de instrumentos y equipos de laboratorio. Diseño, construcción o innovación de instrumentos y equipos para investigación y/o enseñanza.",
+          "syllabusUrl": "",
+          "bibliography": [],
+          "status": "Currículo 2018"
+        },
+        {
+          "id": "electivo-es-3",
+          "code": "E.E. 3",
+          "name": "Electivo de Especialidad 3",
+          "credits": 4,
+          "type": "Electivo de especialidad (ES)",
+          "theoryHours": null,
+          "practiceHours": null,
+          "weeklyHours": null,
+          "prerequisites": [],
+          "department": "Física",
+          "description": "Aborda elegir una de dos experiencias curriculares del bloque E.E. 3.",
+          "syllabusUrl": "",
+          "bibliography": [],
+          "status": "Currículo 2018",
+          "options": [
+            {
+              "code": "8.5",
+              "name": "Teoría de la Relatividad",
+              "credits": 4,
+              "theoryHours": 3,
+              "practiceHours": 2,
+              "prerequisites": [
+                "5.2",
+                "6.1",
+                "7.2"
+              ],
+              "description": "Aborda teoría de la relatividad especial. Fundamentos de la teoría de la relatividad general y Matemática del espacio -tiempo curvo, Ecuación del movimiento de las partículas…"
+            },
+            {
+              "code": "8.6",
+              "name": "Biofísica",
+              "credits": 4,
+              "theoryHours": 2,
+              "practiceHours": 4,
+              "prerequisites": [
+                "5.3",
+                "5.4"
+              ],
+              "description": "Aborda biomecánica del esqueleto. Biomecánica muscular. Elasticidad de materiales biológicos. Hemodinámica. Bioelectricidad. Biomagnetismo. Biofísica de los sentidos…"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cycle": "IX",
+      "courses": [
+        {
+          "id": "9-1-tesis-1",
+          "code": "9.1",
+          "name": "Tesis 1",
+          "credits": 6,
+          "type": "Especialidad (ES)",
+          "theoryHours": 4,
+          "practiceHours": 4,
+          "weeklyHours": 8,
+          "prerequisites": [
+            "8.1",
+            "8.2",
+            "8.3"
+          ],
+          "department": "Física",
+          "description": "Aborda identificación y formulación de un problema del campo de la Física, búsqueda, procesamiento y aná lisis de información científica del problema…",
+          "syllabusUrl": "",
+          "bibliography": [],
+          "status": "Currículo 2018"
+        },
+        {
+          "id": "9-2-didactica-de-la-fisica",
+          "code": "9.2",
+          "name": "Didáctica de la Física",
+          "credits": 3,
+          "type": "Estudios específicos (EE)",
+          "theoryHours": 2,
+          "practiceHours": 2,
+          "weeklyHours": 4,
+          "prerequisites": [
+            "5.3",
+            "5.4"
+          ],
+          "department": "Física",
+          "description": "Aborda enseñanza aprendizaje de las ciencia básicas en el mundo, la ciencia y la construcción del conocimiento científico, objetivos, criterios de selección y estructuración de contenidos…",
+          "syllabusUrl": "",
+          "bibliography": [],
+          "status": "Currículo 2018"
+        },
+        {
+          "id": "e-e-4-electivo-de-especialidad-4",
+          "code": "E.E. 4",
+          "name": "Electivo de Especialidad 4",
+          "credits": 4,
+          "type": "Electivo de especialidad (ES)",
+          "theoryHours": null,
+          "practiceHours": null,
+          "weeklyHours": null,
+          "prerequisites": [],
+          "department": "Según experiencia elegida",
+          "description": "Aborda seleccionar una experiencia curricular electiva de especialidad y/o libre de la relación establecida por el Currículo 2018.",
+          "syllabusUrl": "",
+          "bibliography": [],
+          "status": "Currículo 2018",
+          "options": [
+            {
+              "code": "9.3",
+              "name": "Introducción a la Teoría Cuántica de Campos",
+              "credits": 4,
+              "theoryHours": 2,
+              "practiceHours": 4,
+              "prerequisites": [
+                "6.1",
+                "7.2",
+                "7.3"
+              ],
+              "description": "Aborda los campos y sus lagrangianos. Ecuaciones del movimiento. Invariantes dinámicos. Teorema de Nöether. Su aplicación en traslaciones y rotaciones del grupo de Lorentz. Campos escalares…"
+            },
+            {
+              "code": "9.4",
+              "name": "Física de la Materia Condensada",
+              "credits": 4,
+              "theoryHours": 2,
+              "practiceHours": 4,
+              "prerequisites": [
+                "7.1",
+                "7.3",
+                "8.2"
+              ],
+              "description": "Aborda cuasi partículas en la Física de la ma teria condensada. Plasmones. Polaritones. Excitones. Magnones. Propiedades de los semiconductores. Propiedades de los Ferroeléctricos Magnetismo…"
+            },
+            {
+              "code": "9.5",
+              "name": "Física de Nanoestructuras",
+              "credits": 4,
+              "theoryHours": 2,
+              "practiceHours": 4,
+              "prerequisites": [
+                "7.1",
+                "8.2"
+              ],
+              "description": "Aborda estados cuánticos confinados en sistemas nanoscopicos. Técnicas de fabricación y caracterización de Nanoestructuras. Excitones en nanoestructuras semiconductoras. Nanoplasmonica…"
+            },
+            {
+              "code": "9.6",
+              "name": "Películas Delgadas",
+              "credits": 4,
+              "theoryHours": 2,
+              "practiceHours": 4,
+              "prerequisites": [
+                "5.2",
+                "6.3"
+              ],
+              "description": "Aborda teoría de formación de películas delgadas: nucleación y crecimiento, métodos de depositar películas delgadas, propiedades y caracterización de películas delgadas…"
+            },
+            {
+              "code": "9.7",
+              "name": "Espectroscopia Láser",
+              "credits": 4,
+              "theoryHours": 2,
+              "practiceHours": 4,
+              "prerequisites": [
+                "7.3",
+                "8.2"
+              ],
+              "description": "Aborda tratamiento semiclasico para la interacción materia -radiación. Instrumentación espectroscópica: Principio de funcionamiento del espectrómetro, monocromador, cámara CCD…"
+            },
+            {
+              "code": "9.8",
+              "name": "Biomateriales",
+              "credits": 4,
+              "theoryHours": 3,
+              "practiceHours": 2,
+              "prerequisites": [
+                "8.1"
+              ],
+              "description": "Aborda propiedades de los biomateriales. Reacciones del organismo a los biomateriales. Evaluación de los biomateriales. Degradación de los biomateriales en el organismo…"
+            },
+            {
+              "code": "9.9",
+              "name": "Física de la Energía Solar Fotovoltaica",
+              "credits": 4,
+              "theoryHours": 2,
+              "practiceHours": 4,
+              "prerequisites": [
+                "7.1",
+                "8.2"
+              ],
+              "description": "Aborda introducción a fuentes de energía renovables. Absorción, transmisión, reflexión, difracción de la radiación solar en superficies sólidas. Fundamentos de física de semiconductores…"
+            },
+            {
+              "code": "9.10",
+              "name": "Electrónica 3",
+              "credits": 4,
+              "theoryHours": 2,
+              "practiceHours": 4,
+              "prerequisites": [
+                "7.4"
+              ],
+              "description": "Aborda instrumentación controlada por PC y remota. Manejo de módulos de interface con sensores. Manejo de timers de control tiempo -fecha. Manejo de dataloger y memorias ROM…"
+            },
+            {
+              "code": "9.11",
+              "name": "Física de Materiales 2",
+              "credits": 4,
+              "theoryHours": 2,
+              "practiceHours": 4,
+              "prerequisites": [
+                "8.1"
+              ],
+              "description": "Aborda caracterización de materiales, corrosión, influencia de defectos en las propiedades físicas, mecánicas y de superficie de los materiales, desgaste, centros de color…"
+            },
+            {
+              "code": "9.12",
+              "name": "Física Forense",
+              "credits": 4,
+              "theoryHours": 3,
+              "practiceHours": 2,
+              "prerequisites": [
+                "5.3"
+              ],
+              "description": "Aborda infografías. Accidentes de tránsito. Agresiones. Balística forense. Incendios. Electrocutaciones."
+            },
+            {
+              "code": "9.13",
+              "name": "Meteorología y Climatología",
+              "credits": 4,
+              "theoryHours": 3,
+              "practiceHours": 2,
+              "prerequisites": [
+                "7.1"
+              ],
+              "description": "Aborda física de la atmosfera. Termodinámica de la atmosfera. Dinámica de fluidos geofísicos. Circulación atmosférica. Satélites meteorológicos. El clima y regiones climáticas del mundo…"
+            },
+            {
+              "code": "9.14",
+              "name": "Filosofía de la Física",
+              "credits": 4,
+              "theoryHours": 3,
+              "practiceHours": 2,
+              "prerequisites": [
+                "6.3",
+                "6.5"
+              ],
+              "description": "Aborda física y Filosofía. Epistemología. Metafísica. Ontología.Inducción y deducción en Galileo. Filosofía de la física del empirismo lógico. Crítica a la filosofía del empirismo lógico…"
+            },
+            {
+              "code": "9.15",
+              "name": "Tópicos Avanzados de Física",
+              "credits": 4,
+              "theoryHours": 2,
+              "practiceHours": 4,
+              "prerequisites": [
+                "8.1",
+                "8.2",
+                "8.3"
+              ],
+              "description": "Aborda temas específicos avanzados de la física y ciencias afines que permitan fortalecer los trabajos de investigación y tesis. Para ello se tomarán temas de la especialidad…"
+            },
+            {
+              "code": "9.16",
+              "name": "Física de Partículas",
+              "credits": 4,
+              "theoryHours": 2,
+              "practiceHours": 4,
+              "prerequisites": [
+                "9.3"
+              ],
+              "description": "Aborda simetrías continuas. Simetrías continuas globales. Simetría. Grupo. Simetrías locales y campos de calibre. Su cuantización. Campos “ghost”. Ruptura espontánea de la simetría…"
+            },
+            {
+              "code": "9.17",
+              "name": "Física Médica",
+              "credits": 4,
+              "theoryHours": 2,
+              "practiceHours": 4,
+              "prerequisites": [
+                "8.3"
+              ],
+              "description": "Aborda visualización y detección de imágenes. Interacción de la radiación con la materia. Radiaciones ionizantes. Medicina nuclear y Rayos –X. Radiaciones no ionizantes…"
+            }
+          ]
+        },
+        {
+          "id": "e-e-5-electivo-de-especialidad-5",
+          "code": "E.E. 5",
+          "name": "Electivo de Especialidad 5",
+          "credits": 4,
+          "type": "Electivo de especialidad (ES)",
+          "theoryHours": null,
+          "practiceHours": null,
+          "weeklyHours": null,
+          "prerequisites": [],
+          "department": "Según experiencia elegida",
+          "description": "Aborda seleccionar una experiencia curricular electiva de especialidad y/o libre de la relación establecida por el Currículo 2018.",
+          "syllabusUrl": "",
+          "bibliography": [],
+          "status": "Currículo 2018",
+          "options": [
+            {
+              "code": "9.3",
+              "name": "Introducción a la Teoría Cuántica de Campos",
+              "credits": 4,
+              "theoryHours": 2,
+              "practiceHours": 4,
+              "prerequisites": [
+                "6.1",
+                "7.2",
+                "7.3"
+              ],
+              "description": "Aborda los campos y sus lagrangianos. Ecuaciones del movimiento. Invariantes dinámicos. Teorema de Nöether. Su aplicación en traslaciones y rotaciones del grupo de Lorentz. Campos escalares…"
+            },
+            {
+              "code": "9.4",
+              "name": "Física de la Materia Condensada",
+              "credits": 4,
+              "theoryHours": 2,
+              "practiceHours": 4,
+              "prerequisites": [
+                "7.1",
+                "7.3",
+                "8.2"
+              ],
+              "description": "Aborda cuasi partículas en la Física de la ma teria condensada. Plasmones. Polaritones. Excitones. Magnones. Propiedades de los semiconductores. Propiedades de los Ferroeléctricos Magnetismo…"
+            },
+            {
+              "code": "9.5",
+              "name": "Física de Nanoestructuras",
+              "credits": 4,
+              "theoryHours": 2,
+              "practiceHours": 4,
+              "prerequisites": [
+                "7.1",
+                "8.2"
+              ],
+              "description": "Aborda estados cuánticos confinados en sistemas nanoscopicos. Técnicas de fabricación y caracterización de Nanoestructuras. Excitones en nanoestructuras semiconductoras. Nanoplasmonica…"
+            },
+            {
+              "code": "9.6",
+              "name": "Películas Delgadas",
+              "credits": 4,
+              "theoryHours": 2,
+              "practiceHours": 4,
+              "prerequisites": [
+                "5.2",
+                "6.3"
+              ],
+              "description": "Aborda teoría de formación de películas delgadas: nucleación y crecimiento, métodos de depositar películas delgadas, propiedades y caracterización de películas delgadas…"
+            },
+            {
+              "code": "9.7",
+              "name": "Espectroscopia Láser",
+              "credits": 4,
+              "theoryHours": 2,
+              "practiceHours": 4,
+              "prerequisites": [
+                "7.3",
+                "8.2"
+              ],
+              "description": "Aborda tratamiento semiclasico para la interacción materia -radiación. Instrumentación espectroscópica: Principio de funcionamiento del espectrómetro, monocromador, cámara CCD…"
+            },
+            {
+              "code": "9.8",
+              "name": "Biomateriales",
+              "credits": 4,
+              "theoryHours": 3,
+              "practiceHours": 2,
+              "prerequisites": [
+                "8.1"
+              ],
+              "description": "Aborda propiedades de los biomateriales. Reacciones del organismo a los biomateriales. Evaluación de los biomateriales. Degradación de los biomateriales en el organismo…"
+            },
+            {
+              "code": "9.9",
+              "name": "Física de la Energía Solar Fotovoltaica",
+              "credits": 4,
+              "theoryHours": 2,
+              "practiceHours": 4,
+              "prerequisites": [
+                "7.1",
+                "8.2"
+              ],
+              "description": "Aborda introducción a fuentes de energía renovables. Absorción, transmisión, reflexión, difracción de la radiación solar en superficies sólidas. Fundamentos de física de semiconductores…"
+            },
+            {
+              "code": "9.10",
+              "name": "Electrónica 3",
+              "credits": 4,
+              "theoryHours": 2,
+              "practiceHours": 4,
+              "prerequisites": [
+                "7.4"
+              ],
+              "description": "Aborda instrumentación controlada por PC y remota. Manejo de módulos de interface con sensores. Manejo de timers de control tiempo -fecha. Manejo de dataloger y memorias ROM…"
+            },
+            {
+              "code": "9.11",
+              "name": "Física de Materiales 2",
+              "credits": 4,
+              "theoryHours": 2,
+              "practiceHours": 4,
+              "prerequisites": [
+                "8.1"
+              ],
+              "description": "Aborda caracterización de materiales, corrosión, influencia de defectos en las propiedades físicas, mecánicas y de superficie de los materiales, desgaste, centros de color…"
+            },
+            {
+              "code": "9.12",
+              "name": "Física Forense",
+              "credits": 4,
+              "theoryHours": 3,
+              "practiceHours": 2,
+              "prerequisites": [
+                "5.3"
+              ],
+              "description": "Aborda infografías. Accidentes de tránsito. Agresiones. Balística forense. Incendios. Electrocutaciones."
+            },
+            {
+              "code": "9.13",
+              "name": "Meteorología y Climatología",
+              "credits": 4,
+              "theoryHours": 3,
+              "practiceHours": 2,
+              "prerequisites": [
+                "7.1"
+              ],
+              "description": "Aborda física de la atmosfera. Termodinámica de la atmosfera. Dinámica de fluidos geofísicos. Circulación atmosférica. Satélites meteorológicos. El clima y regiones climáticas del mundo…"
+            },
+            {
+              "code": "9.14",
+              "name": "Filosofía de la Física",
+              "credits": 4,
+              "theoryHours": 3,
+              "practiceHours": 2,
+              "prerequisites": [
+                "6.3",
+                "6.5"
+              ],
+              "description": "Aborda física y Filosofía. Epistemología. Metafísica. Ontología.Inducción y deducción en Galileo. Filosofía de la física del empirismo lógico. Crítica a la filosofía del empirismo lógico…"
+            },
+            {
+              "code": "9.15",
+              "name": "Tópicos Avanzados de Física",
+              "credits": 4,
+              "theoryHours": 2,
+              "practiceHours": 4,
+              "prerequisites": [
+                "8.1",
+                "8.2",
+                "8.3"
+              ],
+              "description": "Aborda temas específicos avanzados de la física y ciencias afines que permitan fortalecer los trabajos de investigación y tesis. Para ello se tomarán temas de la especialidad…"
+            },
+            {
+              "code": "9.16",
+              "name": "Física de Partículas",
+              "credits": 4,
+              "theoryHours": 2,
+              "practiceHours": 4,
+              "prerequisites": [
+                "9.3"
+              ],
+              "description": "Aborda simetrías continuas. Simetrías continuas globales. Simetría. Grupo. Simetrías locales y campos de calibre. Su cuantización. Campos “ghost”. Ruptura espontánea de la simetría…"
+            },
+            {
+              "code": "9.17",
+              "name": "Física Médica",
+              "credits": 4,
+              "theoryHours": 2,
+              "practiceHours": 4,
+              "prerequisites": [
+                "8.3"
+              ],
+              "description": "Aborda visualización y detección de imágenes. Interacción de la radiación con la materia. Radiaciones ionizantes. Medicina nuclear y Rayos –X. Radiaciones no ionizantes…"
+            }
+          ]
+        },
+        {
+          "id": "e-libre-1-electivo-libre-1",
+          "code": "E. Libre 1",
+          "name": "Electivo Libre 1",
+          "credits": 4,
+          "type": "Electivo libre",
+          "theoryHours": null,
+          "practiceHours": null,
+          "weeklyHours": null,
+          "prerequisites": [],
+          "department": "Según experiencia elegida",
+          "description": "Aborda seleccionar una experiencia curricular electiva de especialidad y/o libre de la relación establecida por el Currículo 2018.",
+          "syllabusUrl": "",
+          "bibliography": [],
+          "status": "Currículo 2018",
+          "options": [
+            {
+              "code": "9.3",
+              "name": "Introducción a la Teoría Cuántica de Campos",
+              "credits": 4,
+              "theoryHours": 2,
+              "practiceHours": 4,
+              "prerequisites": [
+                "6.1",
+                "7.2",
+                "7.3"
+              ],
+              "description": "Aborda los campos y sus lagrangianos. Ecuaciones del movimiento. Invariantes dinámicos. Teorema de Nöether. Su aplicación en traslaciones y rotaciones del grupo de Lorentz. Campos escalares…"
+            },
+            {
+              "code": "9.4",
+              "name": "Física de la Materia Condensada",
+              "credits": 4,
+              "theoryHours": 2,
+              "practiceHours": 4,
+              "prerequisites": [
+                "7.1",
+                "7.3",
+                "8.2"
+              ],
+              "description": "Aborda cuasi partículas en la Física de la ma teria condensada. Plasmones. Polaritones. Excitones. Magnones. Propiedades de los semiconductores. Propiedades de los Ferroeléctricos Magnetismo…"
+            },
+            {
+              "code": "9.5",
+              "name": "Física de Nanoestructuras",
+              "credits": 4,
+              "theoryHours": 2,
+              "practiceHours": 4,
+              "prerequisites": [
+                "7.1",
+                "8.2"
+              ],
+              "description": "Aborda estados cuánticos confinados en sistemas nanoscopicos. Técnicas de fabricación y caracterización de Nanoestructuras. Excitones en nanoestructuras semiconductoras. Nanoplasmonica…"
+            },
+            {
+              "code": "9.6",
+              "name": "Películas Delgadas",
+              "credits": 4,
+              "theoryHours": 2,
+              "practiceHours": 4,
+              "prerequisites": [
+                "5.2",
+                "6.3"
+              ],
+              "description": "Aborda teoría de formación de películas delgadas: nucleación y crecimiento, métodos de depositar películas delgadas, propiedades y caracterización de películas delgadas…"
+            },
+            {
+              "code": "9.7",
+              "name": "Espectroscopia Láser",
+              "credits": 4,
+              "theoryHours": 2,
+              "practiceHours": 4,
+              "prerequisites": [
+                "7.3",
+                "8.2"
+              ],
+              "description": "Aborda tratamiento semiclasico para la interacción materia -radiación. Instrumentación espectroscópica: Principio de funcionamiento del espectrómetro, monocromador, cámara CCD…"
+            },
+            {
+              "code": "9.8",
+              "name": "Biomateriales",
+              "credits": 4,
+              "theoryHours": 3,
+              "practiceHours": 2,
+              "prerequisites": [
+                "8.1"
+              ],
+              "description": "Aborda propiedades de los biomateriales. Reacciones del organismo a los biomateriales. Evaluación de los biomateriales. Degradación de los biomateriales en el organismo…"
+            },
+            {
+              "code": "9.9",
+              "name": "Física de la Energía Solar Fotovoltaica",
+              "credits": 4,
+              "theoryHours": 2,
+              "practiceHours": 4,
+              "prerequisites": [
+                "7.1",
+                "8.2"
+              ],
+              "description": "Aborda introducción a fuentes de energía renovables. Absorción, transmisión, reflexión, difracción de la radiación solar en superficies sólidas. Fundamentos de física de semiconductores…"
+            },
+            {
+              "code": "9.10",
+              "name": "Electrónica 3",
+              "credits": 4,
+              "theoryHours": 2,
+              "practiceHours": 4,
+              "prerequisites": [
+                "7.4"
+              ],
+              "description": "Aborda instrumentación controlada por PC y remota. Manejo de módulos de interface con sensores. Manejo de timers de control tiempo -fecha. Manejo de dataloger y memorias ROM…"
+            },
+            {
+              "code": "9.11",
+              "name": "Física de Materiales 2",
+              "credits": 4,
+              "theoryHours": 2,
+              "practiceHours": 4,
+              "prerequisites": [
+                "8.1"
+              ],
+              "description": "Aborda caracterización de materiales, corrosión, influencia de defectos en las propiedades físicas, mecánicas y de superficie de los materiales, desgaste, centros de color…"
+            },
+            {
+              "code": "9.12",
+              "name": "Física Forense",
+              "credits": 4,
+              "theoryHours": 3,
+              "practiceHours": 2,
+              "prerequisites": [
+                "5.3"
+              ],
+              "description": "Aborda infografías. Accidentes de tránsito. Agresiones. Balística forense. Incendios. Electrocutaciones."
+            },
+            {
+              "code": "9.13",
+              "name": "Meteorología y Climatología",
+              "credits": 4,
+              "theoryHours": 3,
+              "practiceHours": 2,
+              "prerequisites": [
+                "7.1"
+              ],
+              "description": "Aborda física de la atmosfera. Termodinámica de la atmosfera. Dinámica de fluidos geofísicos. Circulación atmosférica. Satélites meteorológicos. El clima y regiones climáticas del mundo…"
+            },
+            {
+              "code": "9.14",
+              "name": "Filosofía de la Física",
+              "credits": 4,
+              "theoryHours": 3,
+              "practiceHours": 2,
+              "prerequisites": [
+                "6.3",
+                "6.5"
+              ],
+              "description": "Aborda física y Filosofía. Epistemología. Metafísica. Ontología.Inducción y deducción en Galileo. Filosofía de la física del empirismo lógico. Crítica a la filosofía del empirismo lógico…"
+            },
+            {
+              "code": "9.15",
+              "name": "Tópicos Avanzados de Física",
+              "credits": 4,
+              "theoryHours": 2,
+              "practiceHours": 4,
+              "prerequisites": [
+                "8.1",
+                "8.2",
+                "8.3"
+              ],
+              "description": "Aborda temas específicos avanzados de la física y ciencias afines que permitan fortalecer los trabajos de investigación y tesis. Para ello se tomarán temas de la especialidad…"
+            },
+            {
+              "code": "9.16",
+              "name": "Física de Partículas",
+              "credits": 4,
+              "theoryHours": 2,
+              "practiceHours": 4,
+              "prerequisites": [
+                "9.3"
+              ],
+              "description": "Aborda simetrías continuas. Simetrías continuas globales. Simetría. Grupo. Simetrías locales y campos de calibre. Su cuantización. Campos “ghost”. Ruptura espontánea de la simetría…"
+            },
+            {
+              "code": "9.17",
+              "name": "Física Médica",
+              "credits": 4,
+              "theoryHours": 2,
+              "practiceHours": 4,
+              "prerequisites": [
+                "8.3"
+              ],
+              "description": "Aborda visualización y detección de imágenes. Interacción de la radiación con la materia. Radiaciones ionizantes. Medicina nuclear y Rayos –X. Radiaciones no ionizantes…"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cycle": "X",
+      "courses": [
+        {
+          "id": "10-1-tesis-2",
+          "code": "10.1",
+          "name": "Tesis 2",
+          "credits": 8,
+          "type": "Especialidad (ES)",
+          "theoryHours": 4,
+          "practiceHours": 8,
+          "weeklyHours": 12,
+          "prerequisites": [
+            "9.1"
+          ],
+          "department": "Física",
+          "description": "Aborda procesamiento y análisis de los datos obtenidos, interpretación de los resultados, elaboración de las conclusiones…",
+          "syllabusUrl": "",
+          "bibliography": [],
+          "status": "Currículo 2018"
+        },
+        {
+          "id": "electivo-libre-2",
+          "code": "E. Libre 2",
+          "name": "Electivo Libre 2",
+          "credits": 4,
+          "type": "Electivo libre",
+          "theoryHours": null,
+          "practiceHours": null,
+          "weeklyHours": null,
+          "prerequisites": [],
+          "department": "Según experiencia elegida",
+          "description": "Aborda seleccionar una experiencia curricular electiva de especialidad y/o libre de la relación establecida por el Currículo 2018.",
+          "syllabusUrl": "",
+          "bibliography": [],
+          "status": "Currículo 2018",
+          "options": [
+            {
+              "code": "9.3",
+              "name": "Introducción a la Teoría Cuántica de Campos",
+              "credits": 4,
+              "theoryHours": 2,
+              "practiceHours": 4,
+              "prerequisites": [
+                "6.1",
+                "7.2",
+                "7.3"
+              ],
+              "description": "Aborda los campos y sus lagrangianos. Ecuaciones del movimiento. Invariantes dinámicos. Teorema de Nöether. Su aplicación en traslaciones y rotaciones del grupo de Lorentz. Campos escalares…"
+            },
+            {
+              "code": "9.4",
+              "name": "Física de la Materia Condensada",
+              "credits": 4,
+              "theoryHours": 2,
+              "practiceHours": 4,
+              "prerequisites": [
+                "7.1",
+                "7.3",
+                "8.2"
+              ],
+              "description": "Aborda cuasi partículas en la Física de la ma teria condensada. Plasmones. Polaritones. Excitones. Magnones. Propiedades de los semiconductores. Propiedades de los Ferroeléctricos Magnetismo…"
+            },
+            {
+              "code": "9.5",
+              "name": "Física de Nanoestructuras",
+              "credits": 4,
+              "theoryHours": 2,
+              "practiceHours": 4,
+              "prerequisites": [
+                "7.1",
+                "8.2"
+              ],
+              "description": "Aborda estados cuánticos confinados en sistemas nanoscopicos. Técnicas de fabricación y caracterización de Nanoestructuras. Excitones en nanoestructuras semiconductoras. Nanoplasmonica…"
+            },
+            {
+              "code": "9.6",
+              "name": "Películas Delgadas",
+              "credits": 4,
+              "theoryHours": 2,
+              "practiceHours": 4,
+              "prerequisites": [
+                "5.2",
+                "6.3"
+              ],
+              "description": "Aborda teoría de formación de películas delgadas: nucleación y crecimiento, métodos de depositar películas delgadas, propiedades y caracterización de películas delgadas…"
+            },
+            {
+              "code": "9.7",
+              "name": "Espectroscopia Láser",
+              "credits": 4,
+              "theoryHours": 2,
+              "practiceHours": 4,
+              "prerequisites": [
+                "7.3",
+                "8.2"
+              ],
+              "description": "Aborda tratamiento semiclasico para la interacción materia -radiación. Instrumentación espectroscópica: Principio de funcionamiento del espectrómetro, monocromador, cámara CCD…"
+            },
+            {
+              "code": "9.8",
+              "name": "Biomateriales",
+              "credits": 4,
+              "theoryHours": 3,
+              "practiceHours": 2,
+              "prerequisites": [
+                "8.1"
+              ],
+              "description": "Aborda propiedades de los biomateriales. Reacciones del organismo a los biomateriales. Evaluación de los biomateriales. Degradación de los biomateriales en el organismo…"
+            },
+            {
+              "code": "9.9",
+              "name": "Física de la Energía Solar Fotovoltaica",
+              "credits": 4,
+              "theoryHours": 2,
+              "practiceHours": 4,
+              "prerequisites": [
+                "7.1",
+                "8.2"
+              ],
+              "description": "Aborda introducción a fuentes de energía renovables. Absorción, transmisión, reflexión, difracción de la radiación solar en superficies sólidas. Fundamentos de física de semiconductores…"
+            },
+            {
+              "code": "9.10",
+              "name": "Electrónica 3",
+              "credits": 4,
+              "theoryHours": 2,
+              "practiceHours": 4,
+              "prerequisites": [
+                "7.4"
+              ],
+              "description": "Aborda instrumentación controlada por PC y remota. Manejo de módulos de interface con sensores. Manejo de timers de control tiempo -fecha. Manejo de dataloger y memorias ROM…"
+            },
+            {
+              "code": "9.11",
+              "name": "Física de Materiales 2",
+              "credits": 4,
+              "theoryHours": 2,
+              "practiceHours": 4,
+              "prerequisites": [
+                "8.1"
+              ],
+              "description": "Aborda caracterización de materiales, corrosión, influencia de defectos en las propiedades físicas, mecánicas y de superficie de los materiales, desgaste, centros de color…"
+            },
+            {
+              "code": "9.12",
+              "name": "Física Forense",
+              "credits": 4,
+              "theoryHours": 3,
+              "practiceHours": 2,
+              "prerequisites": [
+                "5.3"
+              ],
+              "description": "Aborda infografías. Accidentes de tránsito. Agresiones. Balística forense. Incendios. Electrocutaciones."
+            },
+            {
+              "code": "9.13",
+              "name": "Meteorología y Climatología",
+              "credits": 4,
+              "theoryHours": 3,
+              "practiceHours": 2,
+              "prerequisites": [
+                "7.1"
+              ],
+              "description": "Aborda física de la atmosfera. Termodinámica de la atmosfera. Dinámica de fluidos geofísicos. Circulación atmosférica. Satélites meteorológicos. El clima y regiones climáticas del mundo…"
+            },
+            {
+              "code": "9.14",
+              "name": "Filosofía de la Física",
+              "credits": 4,
+              "theoryHours": 3,
+              "practiceHours": 2,
+              "prerequisites": [
+                "6.3",
+                "6.5"
+              ],
+              "description": "Aborda física y Filosofía. Epistemología. Metafísica. Ontología.Inducción y deducción en Galileo. Filosofía de la física del empirismo lógico. Crítica a la filosofía del empirismo lógico…"
+            },
+            {
+              "code": "9.15",
+              "name": "Tópicos Avanzados de Física",
+              "credits": 4,
+              "theoryHours": 2,
+              "practiceHours": 4,
+              "prerequisites": [
+                "8.1",
+                "8.2",
+                "8.3"
+              ],
+              "description": "Aborda temas específicos avanzados de la física y ciencias afines que permitan fortalecer los trabajos de investigación y tesis. Para ello se tomarán temas de la especialidad…"
+            },
+            {
+              "code": "9.16",
+              "name": "Física de Partículas",
+              "credits": 4,
+              "theoryHours": 2,
+              "practiceHours": 4,
+              "prerequisites": [
+                "9.3"
+              ],
+              "description": "Aborda simetrías continuas. Simetrías continuas globales. Simetría. Grupo. Simetrías locales y campos de calibre. Su cuantización. Campos “ghost”. Ruptura espontánea de la simetría…"
+            },
+            {
+              "code": "9.17",
+              "name": "Física Médica",
+              "credits": 4,
+              "theoryHours": 2,
+              "practiceHours": 4,
+              "prerequisites": [
+                "8.3"
+              ],
+              "description": "Aborda visualización y detección de imágenes. Interacción de la radiación con la materia. Radiaciones ionizantes. Medicina nuclear y Rayos –X. Radiaciones no ionizantes…"
+            }
+          ]
+        },
+        {
+          "id": "10-3-practica-preprofesional",
+          "code": "10.3",
+          "name": "Práctica Preprofesional",
+          "credits": 10,
+          "type": "Especialidad (ES)",
+          "theoryHours": 0,
+          "practiceHours": 20,
+          "weeklyHours": 20,
+          "prerequisites": [
+            "5.3",
+            "5.4",
+            "5.5"
+          ],
+          "department": "Física",
+          "description": "Aborda para el logro de estas competencias los alumnos realizan Prácticas Preprofesionales ya sea en la universidad o en una institución pública o privada, realizando actividades de investigación…",
+          "syllabusUrl": "",
+          "bibliography": [],
+          "status": "Currículo 2018"
+        }
+      ]
+    }
+  ],
+  "schedule": [
+    {
+      "cycle": "II",
+      "course": "Física Experimental 1 · Laboratorio · Grupo A",
+      "teacher": "Julio Idrogo · Carlos Moya",
+      "day": "Lunes",
+      "time": "07:00 - 11:00",
+      "room": "Laboratorio",
+      "status": "Vigente · 2026-II"
+    },
+    {
+      "cycle": "II",
+      "course": "Estadística General · Teoría",
+      "teacher": "Sergio Chafloque",
+      "day": "Martes",
+      "time": "07:00 - 09:00",
+      "room": "Pool 12",
+      "status": "Vigente · 2026-II"
+    },
+    {
+      "cycle": "II",
+      "course": "Estadística General",
+      "teacher": "Sergio Chafloque",
+      "day": "Miércoles",
+      "time": "07:00 - 09:00",
+      "room": "Pool 12",
+      "status": "Vigente · 2026-II"
+    },
+    {
+      "cycle": "II",
+      "course": "Física 1 · Práctica",
+      "teacher": "Carlos Morgan",
+      "day": "Jueves",
+      "time": "07:00 - 09:00",
+      "room": "Pool 12",
+      "status": "Vigente · 2026-II"
+    },
+    {
+      "cycle": "II",
+      "course": "Cultura Investigativa y Pensamiento Crítico · Laboratorio · Grupo C",
+      "teacher": "Manuel Guevara · Miguel Valverde",
+      "day": "Viernes",
+      "time": "07:00 - 09:00",
+      "room": "Laboratorio",
+      "status": "Vigente · 2026-II"
+    },
+    {
+      "cycle": "II",
+      "course": "Cultura Investigativa y Pensamiento Crítico · Laboratorio · Grupo A",
+      "teacher": "Manuel Guevara · Miguel Valverde",
+      "day": "Martes",
+      "time": "09:00 - 11:00",
+      "room": "Laboratorio",
+      "status": "Vigente · 2026-II"
+    },
+    {
+      "cycle": "II",
+      "course": "Sociedad, Cultura y Ecología",
+      "teacher": "Víctor Gil Angulo",
+      "day": "Miércoles",
+      "time": "09:00 - 11:00",
+      "room": "Pool 12",
+      "status": "Vigente · 2026-II"
+    },
+    {
+      "cycle": "II",
+      "course": "Ética, Convivencia Humana y Ciudadanía",
+      "teacher": "Liz García",
+      "day": "Jueves",
+      "time": "09:00 - 11:00",
+      "room": "Pool 12",
+      "status": "Vigente · 2026-II"
+    },
+    {
+      "cycle": "II",
+      "course": "Ética, Convivencia Humana y Ciudadanía · Teoría",
+      "teacher": "Liz García",
+      "day": "Viernes",
+      "time": "09:00 - 11:00",
+      "room": "Pool 12",
+      "status": "Vigente · 2026-II"
+    },
+    {
+      "cycle": "II",
+      "course": "Física 1 · Teoría",
+      "teacher": "Carlos Morgan",
+      "day": "Lunes",
+      "time": "11:00 - 13:00",
+      "room": "Pool 12",
+      "status": "Vigente · 2026-II"
+    },
+    {
+      "cycle": "II",
+      "course": "Cultura Investigativa y Pensamiento Crítico · Laboratorio · Grupo B",
+      "teacher": "Manuel Guevara · Miguel Valverde",
+      "day": "Martes",
+      "time": "11:00 - 13:00",
+      "room": "Laboratorio",
+      "status": "Vigente · 2026-II"
+    },
+    {
+      "cycle": "II",
+      "course": "Sociedad, Cultura y Ecología",
+      "teacher": "Víctor Gil Angulo",
+      "day": "Miércoles",
+      "time": "11:00 - 13:00",
+      "room": "Pool 12",
+      "status": "Vigente · 2026-II"
+    },
+    {
+      "cycle": "II",
+      "course": "Talleres electivos · Bloque 11:00–13:00",
+      "teacher": "Según taller",
+      "day": "Jueves",
+      "time": "11:00 - 13:00",
+      "room": "Según taller",
+      "status": "Vigente · 2026-II"
+    },
+    {
+      "cycle": "II",
+      "course": "Estadística General · Práctica",
+      "teacher": "Sergio Chafloque",
+      "day": "Viernes",
+      "time": "11:00 - 12:00",
+      "room": "Pool 12",
+      "status": "Vigente · 2026-II"
+    },
+    {
+      "cycle": "II",
+      "course": "Física 1 · Práctica",
+      "teacher": "Carlos Morgan",
+      "day": "Miércoles",
+      "time": "14:00 - 16:00",
+      "room": "Pool 12",
+      "status": "Vigente · 2026-II"
+    },
+    {
+      "cycle": "II",
+      "course": "Física Experimental 1 · Laboratorio · Grupo B",
+      "teacher": "Julio Idrogo · Carlos Moya",
+      "day": "Viernes",
+      "time": "14:00 - 18:00",
+      "room": "Laboratorio",
+      "status": "Vigente · 2026-II"
+    },
+    {
+      "cycle": "II",
+      "course": "Cultura Investigativa y Pensamiento Crítico · Teoría",
+      "teacher": "Manuel Guevara · Miguel Valverde",
+      "day": "Lunes",
+      "time": "15:00 - 17:00",
+      "room": "F-3",
+      "status": "Vigente · 2026-II"
+    },
+    {
+      "cycle": "II",
+      "course": "Física 1 · Práctica",
+      "teacher": "Carlos Morgan",
+      "day": "Miércoles",
+      "time": "16:00 - 18:00",
+      "room": "Pool 12",
+      "status": "Vigente · 2026-II"
+    },
+    {
+      "cycle": "II",
+      "course": "Talleres electivos · Bloque 16:00–18:00",
+      "teacher": "Según taller",
+      "day": "Jueves",
+      "time": "16:00 - 18:00",
+      "room": "Según taller",
+      "status": "Vigente · 2026-II"
+    },
+    {
+      "cycle": "II",
+      "course": "Análisis Matemático · Teoría",
+      "teacher": "Lucy Salazar",
+      "day": "Lunes",
+      "time": "17:00 - 20:00",
+      "room": "Virtual",
+      "status": "Vigente · 2026-II"
+    },
+    {
+      "cycle": "II",
+      "course": "Análisis Matemático · Práctica",
+      "teacher": "Lucy Salazar",
+      "day": "Viernes",
+      "time": "18:00 - 21:00",
+      "room": "Virtual",
+      "status": "Vigente · 2026-II"
+    },
+    {
+      "cycle": "IV",
+      "course": "Introducción a la Programación · Teoría",
+      "teacher": "Luis Lara Romero",
+      "day": "Lunes",
+      "time": "07:00 - 10:00",
+      "room": "F-3",
+      "status": "Vigente · 2026-II"
+    },
+    {
+      "cycle": "IV",
+      "course": "Física Matemática 1 · Teoría",
+      "teacher": "Fernando Rabanal · Carlos Morgan",
+      "day": "Martes",
+      "time": "07:00 - 10:00",
+      "room": "F-3",
+      "status": "Vigente · 2026-II"
+    },
+    {
+      "cycle": "IV",
+      "course": "Introducción a la Programación · Laboratorio",
+      "teacher": "Luis Lara Romero",
+      "day": "Miércoles",
+      "time": "07:00 - 09:00",
+      "room": "Lab. Cómputo",
+      "status": "Vigente · 2026-II"
+    },
+    {
+      "cycle": "IV",
+      "course": "Física Matemática 1 · Teoría",
+      "teacher": "Fernando Rabanal · Carlos Morgan",
+      "day": "Viernes",
+      "time": "07:00 - 11:00",
+      "room": "F-3",
+      "status": "Vigente · 2026-II"
+    },
+    {
+      "cycle": "IV",
+      "course": "Análisis Matemático 2 · Práctica",
+      "teacher": "José Olivencia",
+      "day": "Jueves",
+      "time": "09:00 - 13:00",
+      "room": "F-3",
+      "status": "Vigente · 2026-II"
+    },
+    {
+      "cycle": "IV",
+      "course": "Física 3 · Teoría",
+      "teacher": "Pedro De la Cruz · Ely Miguel",
+      "day": "Lunes",
+      "time": "10:00 - 13:00",
+      "room": "F-3",
+      "status": "Vigente · 2026-II"
+    },
+    {
+      "cycle": "IV",
+      "course": "Análisis Matemático 2 · Teoría",
+      "teacher": "José Olivencia",
+      "day": "Martes",
+      "time": "10:00 - 13:00",
+      "room": "F-3",
+      "status": "Vigente · 2026-II"
+    },
+    {
+      "cycle": "IV",
+      "course": "Introducción a la Programación · Laboratorio",
+      "teacher": "Luis Lara Romero",
+      "day": "Viernes",
+      "time": "11:00 - 13:00",
+      "room": "Lab. Cómputo",
+      "status": "Vigente · 2026-II"
+    },
+    {
+      "cycle": "IV",
+      "course": "Física 3 · Práctica",
+      "teacher": "Pedro De la Cruz · Ely Miguel",
+      "day": "Miércoles",
+      "time": "14:00 - 18:00",
+      "room": "F-3",
+      "status": "Vigente · 2026-II"
+    },
+    {
+      "cycle": "IV",
+      "course": "Física 3 · Práctica",
+      "teacher": "Pedro De la Cruz · Ely Miguel",
+      "day": "Jueves",
+      "time": "14:00 - 18:00",
+      "room": "F-3",
+      "status": "Vigente · 2026-II"
+    },
+    {
+      "cycle": "IV",
+      "course": "Física Experimental 3 · Laboratorio",
+      "teacher": "Miguel Valverde · Jhenry Agreda",
+      "day": "Lunes",
+      "time": "16:00 - 20:00",
+      "room": "Laboratorio",
+      "status": "Vigente · 2026-II"
+    },
+    {
+      "cycle": "VI",
+      "course": "Electrónica 1 · Laboratorio",
+      "teacher": "Vilma Méndez · Fernando Hurtado · Jorge Torres",
+      "day": "Martes",
+      "time": "07:00 - 10:00",
+      "room": "Laboratorio",
+      "status": "Vigente · 2026-II"
+    },
+    {
+      "cycle": "VI",
+      "course": "Electrónica 1 · Laboratorio",
+      "teacher": "Vilma Méndez · Fernando Hurtado · Jorge Torres",
+      "day": "Miércoles",
+      "time": "07:00 - 09:00",
+      "room": "Lab. Electrónica (V)",
+      "status": "Vigente · 2026-II"
+    },
+    {
+      "cycle": "VI",
+      "course": "Electromagnetismo 1 · Práctica",
+      "teacher": "Kelman Marín · Helder Chávez",
+      "day": "Viernes",
+      "time": "07:00 - 09:00",
+      "room": "F-9",
+      "status": "Vigente · 2026-II"
+    },
+    {
+      "cycle": "VI",
+      "course": "Electrónica 1 · Laboratorio",
+      "teacher": "Vilma Méndez · Fernando Hurtado · Jorge Torres",
+      "day": "Jueves",
+      "time": "08:00 - 11:00",
+      "room": "Laboratorio",
+      "status": "Vigente · 2026-II"
+    },
+    {
+      "cycle": "VI",
+      "course": "Física Matemática 3 · Práctica",
+      "teacher": "Antonio Rivasplata · Helder Chávez",
+      "day": "Lunes",
+      "time": "09:00 - 11:00",
+      "room": "F-9",
+      "status": "Vigente · 2026-II"
+    },
+    {
+      "cycle": "VI",
+      "course": "Electromagnetismo 1 · Práctica",
+      "teacher": "Kelman Marín · Helder Chávez",
+      "day": "Viernes",
+      "time": "09:00 - 11:00",
+      "room": "F-9",
+      "status": "Vigente · 2026-II"
+    },
+    {
+      "cycle": "VI",
+      "course": "Mecánica Cuántica 1 · Teoría",
+      "teacher": "Antonio Rivasplata · Helder Chávez",
+      "day": "Martes",
+      "time": "10:00 - 13:00",
+      "room": "F-9",
+      "status": "Vigente · 2026-II"
+    },
+    {
+      "cycle": "VI",
+      "course": "Mecánica Cuántica 1 · Práctica",
+      "teacher": "Antonio Rivasplata · Helder Chávez",
+      "day": "Lunes",
+      "time": "11:00 - 13:00",
+      "room": "F-9",
+      "status": "Vigente · 2026-II"
+    },
+    {
+      "cycle": "VI",
+      "course": "Mecánica Cuántica 1 · Práctica",
+      "teacher": "Antonio Rivasplata · Helder Chávez",
+      "day": "Jueves",
+      "time": "11:00 - 13:00",
+      "room": "F-9",
+      "status": "Vigente · 2026-II"
+    },
+    {
+      "cycle": "VI",
+      "course": "Electromagnetismo 1 · Teoría",
+      "teacher": "Kelman Marín · Helder Chávez",
+      "day": "Lunes",
+      "time": "14:00 - 17:00",
+      "room": "F-9",
+      "status": "Vigente · 2026-II"
+    },
+    {
+      "cycle": "VI",
+      "course": "Física Matemática 3 · Práctica",
+      "teacher": "Antonio Rivasplata · Helder Chávez",
+      "day": "Jueves",
+      "time": "15:00 - 17:00",
+      "room": "F-9",
+      "status": "Vigente · 2026-II"
+    },
+    {
+      "cycle": "VI",
+      "course": "Historia de la Física",
+      "teacher": "Ángel Carranza",
+      "day": "Viernes",
+      "time": "15:00 - 18:00",
+      "room": "F-9",
+      "status": "Vigente · 2026-II"
+    },
+    {
+      "cycle": "VI",
+      "course": "Física Matemática 3",
+      "teacher": "Antonio Rivasplata · Helder Chávez",
+      "day": "Martes",
+      "time": "17:00 - 20:00",
+      "room": "F-9",
+      "status": "Vigente · 2026-II"
+    },
+    {
+      "cycle": "VIII",
+      "course": "Física Nuclear · Práctica",
+      "teacher": "Kelman Marín · Wilker García",
+      "day": "Lunes",
+      "time": "07:00 - 09:00",
+      "room": "F-9",
+      "status": "Vigente · 2026-II"
+    },
+    {
+      "cycle": "VIII",
+      "course": "Biofísica · Teoría",
+      "teacher": "Elvar Quezada",
+      "day": "Miércoles",
+      "time": "07:00 - 09:00",
+      "room": "F-9",
+      "status": "Vigente · 2026-II"
+    },
+    {
+      "cycle": "VIII",
+      "course": "Teoría de la Relatividad · Práctica",
+      "teacher": "Ely Miguel",
+      "day": "Jueves",
+      "time": "07:00 - 09:00",
+      "room": "F-9",
+      "status": "Vigente · 2026-II"
+    },
+    {
+      "cycle": "VIII",
+      "course": "Física del Estado Sólido",
+      "teacher": "José Roldán",
+      "day": "Viernes",
+      "time": "08:00 - 13:00",
+      "room": "F-10",
+      "status": "Vigente · 2026-II"
+    },
+    {
+      "cycle": "VIII",
+      "course": "Instrumentación Científica · Laboratorio",
+      "teacher": "Manuel Guevara · Luis Angelats",
+      "day": "Lunes",
+      "time": "09:00 - 13:00",
+      "room": "Lab. Electrónica A",
+      "status": "Vigente · 2026-II"
+    },
+    {
+      "cycle": "VIII",
+      "course": "Teoría de la Relatividad · Práctica",
+      "teacher": "Ely Miguel",
+      "day": "Martes",
+      "time": "09:00 - 12:00",
+      "room": "Pool 12",
+      "status": "Vigente · 2026-II"
+    },
+    {
+      "cycle": "VIII",
+      "course": "Instrumentación Científica · Teoría",
+      "teacher": "Manuel Guevara · Luis Angelats",
+      "day": "Jueves",
+      "time": "09:00 - 11:00",
+      "room": "F-9",
+      "status": "Vigente · 2026-II"
+    },
+    {
+      "cycle": "VIII",
+      "course": "Física del Estado Sólido",
+      "teacher": "José Roldán",
+      "day": "Jueves",
+      "time": "11:00 - 13:00",
+      "room": "F-10",
+      "status": "Vigente · 2026-II"
+    },
+    {
+      "cycle": "VIII",
+      "course": "Física Nuclear · Laboratorio",
+      "teacher": "Kelman Marín · Wilker García",
+      "day": "Lunes",
+      "time": "14:00 - 16:00",
+      "room": "Laboratorio",
+      "status": "Vigente · 2026-II"
+    },
+    {
+      "cycle": "VIII",
+      "course": "Física de Materiales 1 · Práctica",
+      "teacher": "Wilder Aguilar · Ernesto Noriega",
+      "day": "Miércoles",
+      "time": "14:00 - 17:00",
+      "room": "F-9",
+      "status": "Vigente · 2026-II"
+    },
+    {
+      "cycle": "VIII",
+      "course": "Física de Materiales 1 · Teoría",
+      "teacher": "Wilder Aguilar · Ernesto Noriega",
+      "day": "Martes",
+      "time": "15:00 - 17:00",
+      "room": "F-9",
+      "status": "Vigente · 2026-II"
+    },
+    {
+      "cycle": "VIII",
+      "course": "Física de Materiales 1 · Laboratorio",
+      "teacher": "Wilder Aguilar · Ernesto Noriega",
+      "day": "Jueves",
+      "time": "15:00 - 18:00",
+      "room": "Laboratorio",
+      "status": "Vigente · 2026-II"
+    },
+    {
+      "cycle": "VIII",
+      "course": "Física Nuclear · Teoría",
+      "teacher": "Kelman Marín · Wilker García",
+      "day": "Martes",
+      "time": "17:00 - 20:00",
+      "room": "F-3",
+      "status": "Vigente · 2026-II"
+    },
+    {
+      "cycle": "VIII",
+      "course": "Instrumentación Científica · Laboratorio",
+      "teacher": "Manuel Guevara · Luis Angelats",
+      "day": "Miércoles",
+      "time": "17:00 - 21:00",
+      "room": "Lab. Electrónica A",
+      "status": "Vigente · 2026-II"
+    },
+    {
+      "cycle": "VIII",
+      "course": "Biofísica · Laboratorio",
+      "teacher": "Elvar Quezada",
+      "day": "Viernes",
+      "time": "17:00 - 19:00",
+      "room": "Lab. Biofísica",
+      "status": "Vigente · 2026-II"
+    },
+    {
+      "cycle": "VIII",
+      "course": "Física de Materiales 1 · Laboratorio",
+      "teacher": "Wilder Aguilar · Ernesto Noriega",
+      "day": "Jueves",
+      "time": "18:00 - 21:00",
+      "room": "Laboratorio",
+      "status": "Vigente · 2026-II"
+    },
+    {
+      "cycle": "X",
+      "course": "Física de Materiales 2",
+      "teacher": "Segundo Távara",
+      "day": "Martes",
+      "time": "07:00 - 13:00",
+      "room": "No especificado",
+      "status": "Vigente · 2026-II"
+    },
+    {
+      "cycle": "X",
+      "course": "Física de Partículas · Laboratorio",
+      "teacher": "Por confirmar",
+      "day": "Lunes",
+      "time": "09:00 - 13:00",
+      "room": "Lab. Teórica",
+      "status": "Vigente · 2026-II"
+    },
+    {
+      "cycle": "X",
+      "course": "Biomateriales · Laboratorio",
+      "teacher": "Ernesto Noriega",
+      "day": "Jueves",
+      "time": "10:00 - 13:00",
+      "room": "Lab. Materiales",
+      "status": "Vigente · 2026-II"
+    },
+    {
+      "cycle": "X",
+      "course": "Biomateriales · Laboratorio",
+      "teacher": "Ernesto Noriega",
+      "day": "Viernes",
+      "time": "10:00 - 12:00",
+      "room": "Lab. Materiales",
+      "status": "Vigente · 2026-II"
+    },
+    {
+      "cycle": "X",
+      "course": "Física de Partículas · Teoría",
+      "teacher": "Por confirmar",
+      "day": "Miércoles",
+      "time": "11:00 - 13:00",
+      "room": "F-3",
+      "status": "Vigente · 2026-II"
+    }
+  ],
+  "academicCalendar": [
+    {
+      "date": "24 ago 2026",
+      "title": "Inicio del semestre 2026-II",
+      "description": "Inicio de clases indicado en el consolidado de horarios de la Escuela de Física.",
+      "status": "Confirmado en consolidado 2026-II"
+    },
+    {
+      "date": "19 dic 2026",
+      "title": "Fin del semestre 2026-II",
+      "description": "Fecha de término indicada en el consolidado de horarios de la Escuela de Física.",
+      "status": "Confirmado en consolidado 2026-II"
+    },
+    {
+      "date": "Por confirmar",
+      "title": "Exámenes parciales",
+      "description": "Fechas pendientes de publicación o validación en una fuente académica oficial.",
+      "status": "Información por confirmar"
+    },
+    {
+      "date": "Por confirmar",
+      "title": "Exámenes finales",
+      "description": "Fechas pendientes de publicación o validación en una fuente académica oficial.",
+      "status": "Información por confirmar"
+    }
+  ],
+  "procedures": [
+    {
+      "title": "Constancias y certificados",
+      "description": "Accede al portal de trámites URAA para gestionar carné universitario, certificados, constancias y otros trámites administrativos.",
+      "status": "Portal oficial UNT",
+      "url": "https://tramites-uraa.unitru.edu.pe/home",
+      "actionLabel": "Ir a trámites URAA"
+    },
+    {
+      "title": "Carta de presentación",
+      "description": "Actualmente no contamos con un formato o procedimiento verificado para este trámite.",
+      "status": "No disponible",
+      "url": "",
+      "actionLabel": ""
+    },
+    {
+      "title": "Prácticas preprofesionales",
+      "description": "Consulta el reglamento, solicitud, plan y formato de asistencia disponibles en la sección de prácticas.",
+      "status": "Documentos disponibles",
+      "url": "/academico/#practicas",
+      "actionLabel": "Ver prácticas"
+    },
+    {
+      "title": "Tesis",
+      "description": "Accede a la solicitud, formato de proyecto y declaración jurada disponibles para el proceso de tesis.",
+      "status": "Documentos disponibles",
+      "url": "/academico/#tesis",
+      "actionLabel": "Ver tesis"
+    },
+    {
+      "title": "Bachiller en Ciencias Físicas",
+      "description": "Consulta en el Currículo 2018 la orientación sobre graduación y los requisitos académicos establecidos para el grado de Bachiller.",
+      "status": "Según Currículo 2018",
+      "url": "/docs/curriculo/curriculo-fisica-2018.pdf",
+      "actionLabel": "Ver currículo 2018"
+    },
+    {
+      "title": "Título de Licenciado en Física",
+      "description": "Consulta en el Currículo 2018 la información sobre titulación y la normativa académica indicada para obtener el título profesional.",
+      "status": "Según Currículo 2018",
+      "url": "/docs/curriculo/curriculo-fisica-2018.pdf",
+      "actionLabel": "Ver currículo 2018"
+    },
+    {
+      "title": "Matrícula",
+      "description": "Manual de usuario de CEFUNT con los pasos para realizar el proceso de matrícula mediante el Sistema Universitario Virtual (SUV).",
+      "status": "Guía disponible",
+      "url": "/docs/tramites/guia-matricula.pdf",
+      "actionLabel": "Abrir guía"
+    },
+    {
+      "title": "Rectificación de matrícula 2026-II",
+      "description": "Consulta el comunicado oficial de la Escuela Profesional de Física sobre la rectificación de matrícula del periodo 2026-II.",
+      "status": "Documento oficial 2026-II",
+      "url": "/docs/tramites/rectificacion-matricula-2026-ii.pdf",
+      "actionLabel": "Abrir documento"
+    }
+  ],
+  "thesis": [
+    {
+      "title": "Solicitud de tesis",
+      "description": "Formato de solicitud para iniciar el trámite de tesis.",
+      "url": "/docs/tesis/solicitud-tesis.docx",
+      "status": "Documento disponible",
+      "actionLabel": "Abrir documento"
+    },
+    {
+      "title": "Formato de proyecto de tesis",
+      "description": "Documento editable para la elaboración y presentación del proyecto de tesis.",
+      "url": "/docs/tesis/formato-proyecto-tesis.docx",
+      "status": "Documento disponible",
+      "actionLabel": "Abrir documento"
+    },
+    {
+      "title": "Declaración jurada de autorización",
+      "description": "Declaración jurada de autorización vinculada al proceso de tesis.",
+      "url": "/docs/tesis/declaracion-jurada-autorizacion-tesis.pdf",
+      "status": "Documento disponible",
+      "actionLabel": "Abrir documento"
+    },
+    {
+      "title": "Plantilla de tesis y formatos oficiales",
+      "description": "Plantilla en LaTeX y referencias visuales para preparar la tesis según las indicaciones de presentación disponibles.",
+      "status": "Recursos disponibles",
+      "resources": [
+        {
+          "label": "Descargar plantilla LaTeX",
+          "url": "/docs/tesis/plantilla/plantilla-tesis-latex.zip"
+        },
+        {
+          "label": "Ver instructivo de formato",
+          "url": "/docs/tesis/plantilla/formato-oficial-tesis-01.png"
+        },
+        {
+          "label": "Ver modelo de carátula",
+          "url": "/docs/tesis/plantilla/formato-oficial-tesis-02.png"
+        }
+      ]
+    }
+  ],
+  "practices": [
+    {
+      "title": "Reglamento de prácticas preprofesionales",
+      "description": "Reglamento disponible para consultar las disposiciones de las prácticas preprofesionales.",
+      "url": "/docs/practicas/reglamento-practicas-preprofesionales.pdf",
+      "status": "Documento disponible"
+    },
+    {
+      "title": "Solicitud de prácticas preprofesionales",
+      "description": "Formato editable para solicitar el inicio de las prácticas preprofesionales.",
+      "url": "/docs/practicas/solicitud-practicas-preprofesionales.docx",
+      "status": "Documento disponible"
+    },
+    {
+      "title": "Plan de prácticas preprofesionales",
+      "description": "Formato editable para organizar y presentar el plan de prácticas.",
+      "url": "/docs/practicas/plan-practicas-preprofesionales.docx",
+      "status": "Documento disponible"
+    },
+    {
+      "title": "Formato de asistencia",
+      "description": "Hoja de cálculo para registrar la asistencia durante las prácticas preprofesionales.",
+      "url": "/docs/practicas/formato-asistencia-practicas-preprofesionales.xlsx",
+      "status": "Documento disponible"
+    }
+  ],
+  "applicantFaq": [
+    {
+      "question": "¿Qué estudia realmente un físico?",
+      "answer": "Estudia fenómenos naturales desde modelos teóricos, experimentos, matemáticas y computación. No se reduce a resolver ejercicios: busca comprender, medir y explicar cómo funciona la naturaleza."
+    },
+    {
+      "question": "¿Necesito ser muy bueno en matemáticas?",
+      "answer": "Ayuda tener curiosidad y disposición para practicar. La formación desarrolla herramientas matemáticas progresivamente, junto con intuición física y trabajo experimental."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre Física e Ingeniería?",
+      "answer": "La Física se centra en comprender principios fundamentales y construir modelos de los fenómenos; la Ingeniería suele orientarse al diseño y aplicación directa de soluciones tecnológicas. Ambas se conectan, pero tienen énfasis distintos."
+    },
+    {
+      "question": "¿Qué cursos voy a estudiar?",
+      "answer": "La malla combina física general, matemáticas, laboratorio, programación científica, mecánica, electromagnetismo, cuántica, termodinámica, estadística y cursos avanzados."
+    },
+    {
+      "question": "¿Cómo ingresar a la UNT?",
+      "answer": "La información de admisión debe consultarse en los canales oficiales de la Universidad Nacional de Trujillo. Este hub puede enlazarlos, pero no reemplaza la información institucional."
+    }
+  ],
+  "curriculumUrl": "/docs/curriculo/curriculo-fisica-2018.pdf",
+  "curriculumCredits": 222,
+  "curriculumCourses": 53
+}

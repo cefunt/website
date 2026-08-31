@@ -1,0 +1,257 @@
+{
+  "notice": "Recursos académicos seleccionados por CEFUNT. Las referencias comerciales no incluyen copias protegidas; los enlaces disponibles corresponden a recursos abiertos, internos o autorizados.",
+  "categories": [
+    {
+      "id": "mecanica",
+      "name": "Mecánica",
+      "summary": "Dinámica, oscilaciones, sistemas de partículas y formulaciones analíticas.",
+      "items": [
+        {
+          "title": "Taylor - Classical Mechanics",
+          "type": "Libros",
+          "description": "Referencia sugerida. Ver disponibilidad legal en biblioteca física o repositorios autorizados.",
+          "url": "#",
+          "status": "Referencia sin PDF"
+        },
+        {
+          "title": "Problemas de mecánica",
+          "type": "Problemas",
+          "description": "Banco comunitario preparado para ejercicios resueltos por estudiantes.",
+          "url": "#",
+          "status": "Contenido próximamente"
+        }
+      ]
+    },
+    {
+      "id": "electromagnetismo",
+      "name": "Electromagnetismo",
+      "summary": "Campos eléctricos y magnéticos, ecuaciones de Maxwell y ondas.",
+      "items": [
+        {
+          "title": "Griffiths - Introduction to Electrodynamics",
+          "type": "Libros",
+          "description": "Referencia sugerida para consulta bibliográfica.",
+          "url": "#",
+          "status": "Referencia sin PDF"
+        },
+        {
+          "title": "Simuladores PhET de electricidad y magnetismo",
+          "type": "Simuladores",
+          "description": "Laboratorios virtuales abiertos para visualizar campos, circuitos y ondas.",
+          "url": "https://phet.colorado.edu/es/simulations/filter?subjects=physics&type=html",
+          "status": "Recurso abierto"
+        }
+      ]
+    },
+    {
+      "id": "cuantica",
+      "name": "Mecánica Cuántica",
+      "summary": "Postulados, ecuación de Schrödinger, operadores y sistemas cuánticos.",
+      "items": [
+        {
+          "title": "Griffiths, Shankar y Sakurai",
+          "type": "Libros",
+          "description": "Bibliografía sugerida para diferentes niveles de profundidad.",
+          "url": "#",
+          "status": "Referencia sin PDF"
+        },
+        {
+          "title": "Quantum Country",
+          "type": "Recursos web",
+          "description": "Introducción interactiva a conceptos de computación cuántica.",
+          "url": "https://quantum.country/",
+          "status": "Recurso abierto"
+        }
+      ]
+    },
+    {
+      "id": "termodinamica",
+      "name": "Termodinámica",
+      "summary": "Equilibrio, potenciales termodinámicos, calor, trabajo y procesos.",
+      "items": [
+        {
+          "title": "Callen - Thermodynamics",
+          "type": "Libros",
+          "description": "Referencia sugerida para teoría termodinámica.",
+          "url": "#",
+          "status": "Referencia sin PDF"
+        },
+        {
+          "title": "Guía comunitaria de conceptos clave",
+          "type": "Apuntes",
+          "description": "Espacio para apuntes revisados por estudiantes.",
+          "url": "#",
+          "status": "Contenido próximamente"
+        }
+      ]
+    },
+    {
+      "id": "estadistica",
+      "name": "Física Estadística",
+      "summary": "Ensembles, distribución de Boltzmann y conexión micro-macro.",
+      "items": [
+        {
+          "title": "Pathria - Statistical Mechanics",
+          "type": "Libros",
+          "description": "Referencia sugerida para consulta bibliográfica.",
+          "url": "#",
+          "status": "Referencia sin PDF"
+        },
+        {
+          "title": "Visualizaciones de distribuciones",
+          "type": "Software",
+          "description": "Espacio preparado para notebooks o simuladores abiertos.",
+          "url": "#",
+          "status": "Contenido próximamente"
+        }
+      ]
+    },
+    {
+      "id": "matematicas",
+      "name": "Matemáticas para físicos",
+      "summary": "Cálculo, álgebra lineal, ecuaciones diferenciales y variable compleja.",
+      "items": [
+        {
+          "title": "Álgebra II - Armando Rojo",
+          "type": "Libros",
+          "description": "Recurso actualmente enlazado en la biblioteca estudiantil. Validar permisos antes de redistribuir.",
+          "url": "/biblioest/",
+          "status": "Enlace interno existente"
+        },
+        {
+          "title": "Mathematics Stack Exchange",
+          "type": "Recursos web",
+          "description": "Comunidad de preguntas y respuestas para dudas matemáticas.",
+          "url": "https://math.stackexchange.com",
+          "status": "Recurso externo"
+        }
+      ]
+    },
+    {
+      "id": "moderna",
+      "name": "Física Moderna",
+      "summary": "Relatividad, física atómica, nuclear e introducción a fenómenos cuánticos.",
+      "items": [
+        {
+          "title": "Krane - Modern Physics",
+          "type": "Libros",
+          "description": "Referencia sugerida para consulta bibliográfica.",
+          "url": "#",
+          "status": "Referencia sin PDF"
+        },
+        {
+          "title": "arXiv Physics",
+          "type": "Recursos web",
+          "description": "Repositorio de preprints de acceso abierto.",
+          "url": "https://arxiv.org/archive/physics",
+          "status": "Recurso abierto"
+        }
+      ]
+    },
+    {
+      "id": "computacional",
+      "name": "Física Computacional",
+      "summary": "Métodos numéricos, simulación, análisis de datos y programación científica.",
+      "items": [
+        {
+          "title": "NumPy, SciPy y Matplotlib",
+          "type": "Software",
+          "description": "Herramientas abiertas para cálculo científico en Python.",
+          "url": "https://scipy.org/",
+          "status": "Recurso abierto"
+        },
+        {
+          "title": "Computational Physics - Mark Newman",
+          "type": "Libros",
+          "description": "Referencia sugerida para métodos computacionales.",
+          "url": "#",
+          "status": "Referencia sin PDF"
+        }
+      ]
+    },
+    {
+      "id": "electronica",
+      "name": "Electrónica",
+      "summary": "Circuitos, sensores, instrumentación y adquisición de datos.",
+      "items": [
+        {
+          "title": "CircuitJS",
+          "type": "Simuladores",
+          "description": "Simulador abierto de circuitos eléctricos.",
+          "url": "https://www.falstad.com/circuit/",
+          "status": "Recurso abierto"
+        },
+        {
+          "title": "Guía de instrumentación básica",
+          "type": "Apuntes",
+          "description": "Espacio preparado para material de laboratorio.",
+          "url": "#",
+          "status": "Contenido próximamente"
+        }
+      ]
+    },
+    {
+      "id": "optica",
+      "name": "Óptica",
+      "summary": "Óptica geométrica, interferencia, difracción y polarización.",
+      "items": [
+        {
+          "title": "Hecht - Optics",
+          "type": "Libros",
+          "description": "Referencia sugerida para consulta bibliográfica.",
+          "url": "#",
+          "status": "Referencia sin PDF"
+        },
+        {
+          "title": "Simuladores de óptica",
+          "type": "Simuladores",
+          "description": "Espacio para enlazar simulaciones abiertas y prácticas virtuales.",
+          "url": "#",
+          "status": "Contenido próximamente"
+        }
+      ]
+    },
+    {
+      "id": "astronomia",
+      "name": "Astronomía",
+      "summary": "Observación, divulgación, astrofísica introductoria y recursos del club.",
+      "items": [
+        {
+          "title": "Club de Astronomía UNT",
+          "type": "Material de estudiantes",
+          "description": "Acceso a la comunidad estudiantil dedicada a astronomía.",
+          "url": "/comunidad/#clubes",
+          "status": "Enlace interno"
+        },
+        {
+          "title": "NASA Astrophysics Data System",
+          "type": "Recursos web",
+          "description": "Buscador bibliográfico usado en astronomía y astrofísica.",
+          "url": "https://ui.adsabs.harvard.edu/",
+          "status": "Recurso externo"
+        }
+      ]
+    },
+    {
+      "id": "programacion",
+      "name": "Programación científica",
+      "summary": "Python, notebooks, visualización, control de versiones y reproducibilidad.",
+      "items": [
+        {
+          "title": "Jupyter",
+          "type": "Software",
+          "description": "Entorno abierto para notebooks científicos.",
+          "url": "https://jupyter.org/",
+          "status": "Recurso abierto"
+        },
+        {
+          "title": "Guía Git para estudiantes",
+          "type": "Apuntes",
+          "description": "Material comunitario por preparar para trabajo reproducible.",
+          "url": "#",
+          "status": "Contenido próximamente"
+        }
+      ]
+    }
+  ]
+}

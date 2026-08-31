@@ -1,0 +1,70 @@
+{
+  "notice": "No hay convocatorias publicadas por el momento. Aquí aparecerán oportunidades verificadas para estudiantes de Física.",
+  "opportunities": [
+    {
+      "id": "beca-investigacion-ejemplo",
+      "title": "Beca de investigación para estudiantes",
+      "organization": "Organización por confirmar",
+      "type": "Becas",
+      "deadline": "Por confirmar",
+      "modality": "Presencial / virtual por confirmar",
+      "country": "Por confirmar",
+      "description": "Espacio preparado para becas relacionadas con física, ciencia de datos o investigación.",
+      "url": "#",
+      "status": "Datos de ejemplo",
+      "published": false
+    },
+    {
+      "id": "practicas-laboratorio-ejemplo",
+      "title": "Prácticas en laboratorio",
+      "organization": "Institución por confirmar",
+      "type": "Prácticas",
+      "deadline": "Por confirmar",
+      "modality": "Presencial",
+      "country": "Perú",
+      "description": "Convocatoria editable para prácticas preprofesionales, asistencia técnica o apoyo experimental.",
+      "url": "#",
+      "status": "Contenido próximamente",
+      "published": false
+    },
+    {
+      "id": "escuela-verano-ejemplo",
+      "title": "Escuela de verano en física",
+      "organization": "Programa por confirmar",
+      "type": "Internacional",
+      "deadline": "Por confirmar",
+      "modality": "Híbrida por confirmar",
+      "country": "Por confirmar",
+      "description": "Espacio para escuelas de verano, cursos intensivos y programas de movilidad.",
+      "url": "#",
+      "status": "Datos de ejemplo",
+      "published": false
+    },
+    {
+      "id": "congreso-fisica-ejemplo",
+      "title": "Congreso estudiantil de ciencias",
+      "organization": "Comité por confirmar",
+      "type": "Congresos",
+      "deadline": "Por confirmar",
+      "modality": "Por confirmar",
+      "country": "Por confirmar",
+      "description": "Convocatoria para ponencias, pósters o asistencia a encuentros académicos.",
+      "url": "#",
+      "status": "Contenido próximamente",
+      "published": false
+    },
+    {
+      "id": "voluntariado-divulgacion-ejemplo",
+      "title": "Voluntariado científico",
+      "organization": "CEFUNT / Clubes",
+      "type": "Investigación",
+      "deadline": "Convocatoria abierta por confirmar",
+      "modality": "Presencial",
+      "country": "Perú",
+      "description": "Participación en talleres, ferias, divulgación y apoyo a proyectos estudiantiles.",
+      "url": "/comunidad/",
+      "status": "Datos de ejemplo",
+      "published": false
+    }
+  ]
+}

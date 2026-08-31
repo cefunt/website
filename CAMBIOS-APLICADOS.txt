@@ -1,0 +1,12 @@
+CEFUNT — corrección basada exclusivamente en cefunt-website-main(3).zip
+
+- Se conserva img/logo.svg como imagen temporal de TODOS los docentes.
+- Textos corregidos de forma breve para respetar el layout existente.
+- Cards con acciones alineadas al pie para evitar descuadres por diferencias de texto.
+- Eventos de ejemplo, oportunidades de ejemplo y egresados placeholder permanecen en los JSON, pero no se publican visualmente.
+- Se añadieron estados vacíos limpios cuando aún no existe contenido real.
+- Biblioteca deja de presentarse como “de ejemplo”.
+- La carga de JSON usa Promise.allSettled para que un fallo aislado no rompa todo el hub.
+- Se mantienen íntegros documentos, imágenes, paleta, tipografías y arquitectura del ZIP recibido.
+
+- Formulario de envío: el selector ahora muestra directamente todos los nombres reales de cursos. No muestra ni solicita bloques o categorías de electivos. La relación interna con el bloque curricular se conserva solo para almacenar correctamente el registro en Supabase.

@@ -1,0 +1,48 @@
+{
+  "notice": "Los perfiles de egresados se incorporarán progresivamente con información verificable y autorización para su publicación.",
+  "categories": [
+    "Academia",
+    "Investigación",
+    "Tecnología",
+    "Data Science",
+    "Industria",
+    "Educación",
+    "Software",
+    "Energía"
+  ],
+  "alumni": [
+    {
+      "id": "egresado-placeholder-1",
+      "name": "Egresado por confirmar",
+      "classYear": "Promoción por confirmar",
+      "area": "Investigación",
+      "role": "Cargo actual por confirmar",
+      "organization": "Organización por confirmar",
+      "quote": "Testimonio breve por confirmar.",
+      "status": "Placeholder",
+      "published": false
+    },
+    {
+      "id": "egresado-placeholder-2",
+      "name": "Egresada por confirmar",
+      "classYear": "Promoción por confirmar",
+      "area": "Data Science",
+      "role": "Cargo actual por confirmar",
+      "organization": "Organización por confirmar",
+      "quote": "Testimonio breve por confirmar.",
+      "status": "Placeholder",
+      "published": false
+    },
+    {
+      "id": "egresado-placeholder-3",
+      "name": "Egresado por confirmar",
+      "classYear": "Promoción por confirmar",
+      "area": "Educación",
+      "role": "Cargo actual por confirmar",
+      "organization": "Organización por confirmar",
+      "quote": "Testimonio breve por confirmar.",
+      "status": "Placeholder",
+      "published": false
+    }
+  ]
+}
