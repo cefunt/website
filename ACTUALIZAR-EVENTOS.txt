@@ -1,0 +1,17 @@
+EVENTOS — CÓMO ACTUALIZAR
+
+Los datos de eventos están en:
+  data/events.json
+
+Los flyers/fotos van en:
+  img/eventos/
+
+Archivos que esta versión espera que añadas:
+  img/eventos/quantum2026.jpg
+  img/eventos/workshop-posters-fisica.jpg
+
+Regla de botones:
+- Si "url" contiene una web real, aparece "Ver evento".
+- Si "url" es "#", no aparece ningún botón.
+
+Actualmente no hay eventos próximos publicados.

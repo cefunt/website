@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex,nofollow">
+  <title>Revisión de sílabos | CEFUNT</title>
+  <link rel="icon" href="/img/logo.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/styles/styles.css">
+
+  <link rel="canonical" href="https://cefunt.lat/admin-silabos/">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="CEFUNT">
+  <meta property="og:title" content="Revisión de sílabos | CEFUNT">
+  <meta property="og:description" content="Centro de Estudiantes de Física de la Universidad Nacional de Trujillo.">
+  <meta property="og:url" content="https://cefunt.lat/admin-silabos/">
+  <meta property="og:image" content="https://cefunt.lat/img/logo.svg">
+  <meta name="twitter:card" content="summary">
+</head>
+<body>
+  <main class="admin-shell">
+    <section class="admin-login" data-admin-login>
+      <a class="brand" href="/"><img src="/img/logo.svg" alt=""><span class="brand-copy"><strong>CEFUNT</strong><small>Panel interno</small></span></a>
+      <div>
+        <p class="eyebrow dark"><span></span> Administración</p>
+        <h1>Revisión de sílabos</h1>
+        <p>Inicia sesión con una cuenta administradora autorizada.</p>
+      </div>
+      <form class="admin-login-form" data-admin-login-form>
+        <label>Correo<input type="email" name="email" required autocomplete="username"></label>
+        <label>Contraseña<input type="password" name="password" required autocomplete="current-password"></label>
+        <button class="button button-primary" type="submit">Ingresar</button>
+        <div class="form-message" role="status" aria-live="polite" data-admin-login-message></div>
+      </form>
+    </section>
+
+    <section class="admin-dashboard" data-admin-dashboard hidden>
+      <header class="admin-topbar">
+        <div><p class="eyebrow dark"><span></span> CEFUNT</p><h1>Sílabos pendientes</h1></div>
+        <div class="admin-top-actions"><span data-admin-email></span><button class="mini-button" type="button" data-admin-refresh>Actualizar</button><button class="mini-button" type="button" data-admin-logout>Cerrar sesión</button></div>
+      </header>
+      <div class="admin-stats"><div><span>Pendientes</span><strong data-pending-count>0</strong></div><div><span>Aprobados</span><strong data-approved-count>0</strong></div><div><span>Rechazados</span><strong data-rejected-count>0</strong></div></div>
+      <nav class="admin-filters" aria-label="Filtrar envíos"><button class="filter-pill is-active" type="button" data-status-filter="pending">Pendientes</button><button class="filter-pill" type="button" data-status-filter="approved">Aprobados</button><button class="filter-pill" type="button" data-status-filter="rejected">Rechazados</button></nav>
+      <div class="admin-submission-list" data-admin-list></div>
+      <div class="form-message" role="status" aria-live="polite" data-admin-message></div>
+    </section>
+  </main>
+
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+  <script src="/js/supabase-config.js"></script>
+  <script src="/js/admin-syllabi.js"></script>
+</body>
+</html>

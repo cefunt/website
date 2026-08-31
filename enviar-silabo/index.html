@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Envía un sílabo al repositorio académico de CEFUNT para revisión.">
+  <title>Enviar sílabo | CEFUNT</title>
+  <link rel="icon" href="/img/logo.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/styles/styles.css">
+
+  <link rel="canonical" href="https://cefunt.lat/enviar-silabo/">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="CEFUNT">
+  <meta property="og:title" content="Enviar sílabo | CEFUNT">
+  <meta property="og:description" content="Envía un sílabo al repositorio académico de CEFUNT para revisión.">
+  <meta property="og:url" content="https://cefunt.lat/enviar-silabo/">
+  <meta property="og:image" content="https://cefunt.lat/img/logo.svg">
+  <meta name="twitter:card" content="summary">
+  <meta name="robots" content="noindex, follow">
+</head>
+<body>
+  <a class="skip-link" href="#contenido">Saltar al contenido</a>
+  <header class="site-header">
+    <a class="brand" href="/" aria-label="CEFUNT, inicio"><img src="/img/logo.svg" alt=""><span class="brand-copy"><strong>CEFUNT</strong><small>Física · UNT</small></span></a>
+    <button class="hamburguesa" id="hamburguesa" type="button" aria-label="Abrir menú" aria-expanded="false" aria-controls="nav-links"><span></span><span></span><span></span></button>
+    <nav aria-label="Navegación principal"><ul id="nav-links"><li><a href="/">Inicio</a></li><li><a href="/carrera/">Carrera</a></li><li><a href="/academico/" class="activo">Académico</a></li><li><a href="/comunidad/">Comunidad</a></li><li><a href="/biblioteca/">Biblioteca</a></li><li><a href="/oportunidades/">Oportunidades</a></li><li><a href="/eventos/">Eventos</a></li></ul></nav>
+  </header>
+
+  <main id="contenido">
+    <section class="hero"><h1>Enviar sílabo</h1></section>
+    <section class="submission-page section-pad">
+      <div class="submission-layout">
+        <div class="submission-copy reveal">
+          <p class="eyebrow dark"><span></span> Repositorio colaborativo</p>
+          <h2>Ayúdanos a completar los sílabos de Física.</h2>
+          <p>El documento no se publica inmediatamente. Primero queda pendiente de revisión por CEFUNT y solo después de ser validado aparecerá en la sección académica.</p>
+          <div class="submission-note"><strong>Antes de enviarlo</strong><span>Adjunta únicamente el sílabo oficial en formato PDF. Máximo 10 MB.</span></div>
+        </div>
+
+        <form class="syllabus-form reveal" data-syllabus-submit-form novalidate>
+          <div class="form-field form-field-full">
+            <label for="submission-course">Curso</label>
+            <select id="submission-course" name="course_id" required data-course-select><option value="">Cargando cursos…</option></select>
+          </div>
+          <div class="form-field">
+            <label for="submission-year">Año</label>
+            <select id="submission-year" name="year" required data-year-select></select>
+          </div>
+          <div class="form-field">
+            <label for="submission-semester">Semestre</label>
+            <select id="submission-semester" name="semester" required><option value="I">I</option><option value="II">II</option></select>
+          </div>
+          <div class="form-field form-field-full">
+            <label for="submission-file">Sílabo en PDF</label>
+            <input id="submission-file" name="file" type="file" accept="application/pdf,.pdf" required>
+            <small>PDF · máximo 10 MB</small>
+          </div>
+          <div class="form-field form-field-full">
+            <label for="submission-email">Correo de contacto <span>(opcional)</span></label>
+            <input id="submission-email" name="contact_email" type="email" autocomplete="email" placeholder="tu.correo@unitru.edu.pe">
+          </div>
+          <label class="form-consent form-field-full"><input type="checkbox" name="confirm" required><span>Confirmo que el archivo corresponde al curso y periodo seleccionados.</span></label>
+          <div class="form-field-full">
+            <button class="button button-primary" type="submit" data-submit-button>Enviar para revisión <span aria-hidden="true">↗</span></button>
+          </div>
+          <div class="form-message form-field-full" role="status" aria-live="polite" data-form-message></div>
+        </form>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer"><div class="footer-main"><div><a class="brand footer-brand" href="/"><img src="/img/logo.svg" alt=""><span class="brand-copy"><strong>CEFUNT</strong><small>Física · UNT</small></span></a><p>La física se construye<br>en comunidad.</p></div><div class="footer-nav"><h3>Explora</h3><a href="/carrera/">Carrera</a><a href="/academico/">Académico</a><a href="/comunidad/">Comunidad</a><a href="/biblioteca/">Biblioteca</a></div><div class="footer-nav"><h3>Conecta</h3><a href="/contacto/">Contacto</a><a href="mailto:cefunt@unitru.edu.pe">Correo ↗</a></div></div><div class="footer-bottom"><span>© <span data-year>2026</span> CEFUNT</span><span>Universidad Nacional de Trujillo · Perú</span></div></footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+  <script src="/js/supabase-config.js"></script>
+  <script src="/js/script.js"></script>
+  <script src="/js/syllabus-submit.js"></script>
+</body>
+</html>

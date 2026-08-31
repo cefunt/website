@@ -1,0 +1,169 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Sílabos, horarios, calendario, tesis, prácticas y trámites para estudiantes de Física UNT.">
+  <title>Académico | CEFUNT</title>
+  <link rel="icon" href="/img/logo.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/styles/styles.css">
+
+  <link rel="canonical" href="https://cefunt.lat/academico/">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="CEFUNT">
+  <meta property="og:title" content="Académico | CEFUNT">
+  <meta property="og:description" content="Sílabos, horarios, calendario, tesis, prácticas y trámites para estudiantes de Física UNT.">
+  <meta property="og:url" content="https://cefunt.lat/academico/">
+  <meta property="og:image" content="https://cefunt.lat/img/logo.svg">
+  <meta name="twitter:card" content="summary">
+</head>
+<body>
+  <a class="skip-link" href="#contenido">Saltar al contenido</a>
+  <header class="site-header">
+    <a class="brand" href="/" aria-label="CEFUNT, inicio">
+      <img src="/img/logo.svg" alt="">
+      <span class="brand-copy"><strong>CEFUNT</strong><small>Física · UNT</small></span>
+    </a>
+    <button class="hamburguesa" id="hamburguesa" type="button" aria-label="Abrir menú" aria-expanded="false" aria-controls="nav-links">
+      <span></span><span></span><span></span>
+    </button>
+    <nav aria-label="Navegación principal">
+      <ul id="nav-links">
+        <li><a href="/">Inicio</a></li>
+        <li><a href="/carrera/">Carrera</a></li>
+        <li><a href="/academico/" class="activo" aria-current="page">Académico</a></li>
+        <li><a href="/comunidad/">Comunidad</a></li>
+        <li><a href="/biblioteca/">Biblioteca</a></li>
+        <li><a href="/oportunidades/">Oportunidades</a></li>
+        <li><a href="/eventos/">Eventos</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main id="contenido">
+    <section class="hero">
+      <h1>Académico</h1>
+    </section>
+
+    <section class="page-intro section-pad">
+      <div class="section-index">01</div>
+      <div class="intro-heading reveal">
+        <p class="eyebrow dark"><span></span> Hub académico</p>
+        <h2>Sílabos, horarios, tesis, prácticas y trámites en una sola ruta.</h2>
+      </div>
+      <div class="intro-copy reveal" data-delay="1">
+        <p>Esta página organiza información útil para estudiantes de Física UNT. Cuando falte información validada, el contenido queda marcado como pendiente para evitar publicar procedimientos no confirmados.</p>
+        <a class="text-link dark" href="/carrera/#malla">Ver malla curricular <span aria-hidden="true">↗</span></a>
+      </div>
+    </section>
+
+    <section class="quick-section section-pad compact-pad">
+      <div class="quick-grid">
+        <a class="quick-card reveal" href="#silabos"><span>Sílabos</span><strong>Buscar por ciclo</strong><i>↓</i></a>
+        <a class="quick-card reveal" data-delay="1" href="#horarios"><span>Horarios</span><strong>Semestre actual</strong><i>↓</i></a>
+        <a class="quick-card reveal" data-delay="2" href="#tesis"><span>Tesis</span><strong>Formatos y asesoría</strong><i>↓</i></a>
+        <a class="quick-card reveal" href="#tramites"><span>Trámites</span><strong>Orientación pendiente</strong><i>↓</i></a>
+      </div>
+    </section>
+
+    <section class="academic-section section-pad" id="silabos">
+      <div class="split-head reveal">
+        <div>
+          <p class="eyebrow dark"><span></span> Sílabos</p>
+          <h2>Listado por ciclo y curso</h2>
+        </div>
+        <p>Consulta los sílabos disponibles por ciclo y curso. Los cursos sin documento enlazado se mantienen señalados como pendientes.</p>
+      </div>
+      <aside class="syllabus-contribute reveal" aria-label="Aportar un sílabo">
+        <div>
+          <span class="card-kicker">Repositorio colaborativo</span>
+          <h3>¿Tienes un sílabo que aún no aparece aquí?</h3>
+          <p>Envíalo para revisión. CEFUNT verificará el documento antes de publicarlo en la plataforma.</p>
+        </div>
+        <a class="button button-primary" href="/enviar-silabo/">+ Enviar un sílabo</a>
+      </aside>
+      <div class="filter-row reveal" aria-label="Filtros de sílabos">
+        <label for="syllabus-search">Buscar curso</label>
+        <input id="syllabus-search" type="search" data-syllabus-search placeholder="Electromagnetismo, cuántica, métodos...">
+        <label for="syllabus-cycle">Ciclo</label>
+        <select id="syllabus-cycle" data-syllabus-cycle></select>
+      </div>
+      <div class="syllabus-grid" data-syllabus-list></div>
+    </section>
+
+    <section class="academic-section dark section-pad" id="horarios">
+      <div class="split-head reveal">
+        <div>
+          <p class="eyebrow"><span></span> Horarios</p>
+          <h2>Semestre 2026-II</h2>
+        </div>
+        <p>Horarios consolidados del semestre 2026-II, organizados por ciclo, curso, docente, día, hora y aula o laboratorio.</p>
+      </div>
+      <div class="filter-row dark reveal">
+        <label for="schedule-cycle">Filtrar por ciclo</label>
+        <select id="schedule-cycle" data-schedule-cycle></select>
+      </div>
+      <div class="schedule-table reveal" data-schedule-list></div>
+    </section>
+
+    <section class="academic-section section-pad" id="calendario">
+      <div class="split-head reveal">
+        <div>
+          <p class="eyebrow dark"><span></span> Calendario académico</p>
+          <h2>Fechas importantes</h2>
+        </div>
+        <p>El consolidado 2026-II confirma el inicio y término del semestre. Las demás fechas se publicarán cuando estén validadas.</p>
+      </div>
+      <div class="timeline-list reveal" data-calendar-list></div>
+    </section>
+
+    <section class="academic-section dark section-pad" id="tesis">
+      <div class="split-head reveal">
+        <div>
+          <p class="eyebrow"><span></span> Tesis y titulación</p>
+          <h2>Documentos para tu proceso de tesis.</h2>
+        </div>
+        <p>Consulta y descarga los formatos disponibles para iniciar y desarrollar tu proceso de tesis.</p>
+      </div>
+      <div class="resource-link-grid" data-thesis-list></div>
+    </section>
+
+    <section class="academic-section section-pad" id="practicas">
+      <div class="split-head reveal">
+        <div>
+          <p class="eyebrow dark"><span></span> Prácticas preprofesionales</p>
+          <h2>Documentos y formatos para tus prácticas.</h2>
+        </div>
+        <p>Consulta el reglamento y descarga los formatos disponibles para gestionar tus prácticas preprofesionales.</p>
+      </div>
+      <div class="resource-link-grid light" data-practice-list></div>
+    </section>
+
+    <section class="academic-section dark section-pad" id="tramites">
+      <div class="split-head reveal">
+        <div>
+          <p class="eyebrow"><span></span> Trámites frecuentes</p>
+          <h2>Accesos directos para tus trámites más frecuentes.</h2>
+        </div>
+        <p>Consulta documentos, guías y portales oficiales. Cuando no exista información verificada, el trámite se mantiene claramente marcado como no disponible.</p>
+      </div>
+      <div class="procedure-grid" data-procedures-list></div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-main">
+      <div><a class="brand footer-brand" href="/"><img src="/img/logo.svg" alt=""><span class="brand-copy"><strong>CEFUNT</strong><small>Física · UNT</small></span></a><p>La física se construye<br>en comunidad.</p></div>
+      <div class="footer-nav"><h3>Explora</h3><a href="/carrera/">Carrera</a><a href="/academico/">Académico</a><a href="/comunidad/">Comunidad</a><a href="/biblioteca/">Biblioteca</a><a href="/oportunidades/">Oportunidades</a><a href="/eventos/">Eventos</a></div>
+      <div class="footer-nav"><h3>Conecta</h3><a href="/contacto/">Contacto</a><a href="https://www.facebook.com/CEFUNT" target="_blank" rel="noopener">Facebook ↗</a><a href="https://www.instagram.com/c.e.f.u.n.t/" target="_blank" rel="noopener">Instagram ↗</a><a href="mailto:cefunt@unitru.edu.pe">Correo ↗</a></div>
+    </div>
+    <div class="footer-bottom"><span>© <span data-year>2026</span> CEFUNT</span><span>Universidad Nacional de Trujillo · Perú</span></div>
+  </footer>
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+  <script src="/js/supabase-config.js"></script>
+  <script src="/js/script.js"></script>
+</body>
+</html>

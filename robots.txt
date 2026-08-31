@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /admin-silabos/
+
+Sitemap: https://cefunt.lat/sitemap.xml

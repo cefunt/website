@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Malla curricular interactiva de Física UNT. Marca cursos aprobados, revisa prerrequisitos y calcula tu avance en créditos.">
+  <title>Malla interactiva | CEFUNT</title>
+  <link rel="icon" href="/img/logo.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/styles/styles.css">
+  <link rel="stylesheet" href="/styles/malla.css">
+
+  <link rel="canonical" href="https://cefunt.lat/malla/">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="CEFUNT">
+  <meta property="og:title" content="Malla interactiva | CEFUNT">
+  <meta property="og:description" content="Malla curricular interactiva de Física UNT. Marca cursos aprobados, revisa prerrequisitos y calcula tu avance en créditos.">
+  <meta property="og:url" content="https://cefunt.lat/malla/">
+  <meta property="og:image" content="https://cefunt.lat/img/logo.svg">
+  <meta name="twitter:card" content="summary">
+</head>
+<body class="malla-page">
+  <a class="skip-link" href="#contenido">Saltar al contenido</a>
+
+  <header class="site-header">
+    <a class="brand" href="/" aria-label="CEFUNT, inicio">
+      <img src="/img/logo.svg" alt="">
+      <span class="brand-copy"><strong>CEFUNT</strong><small>Física · UNT</small></span>
+    </a>
+    <button class="hamburguesa" id="hamburguesa" type="button" aria-label="Abrir menú" aria-expanded="false" aria-controls="nav-links">
+      <span></span><span></span><span></span>
+    </button>
+    <nav aria-label="Navegación principal">
+      <ul id="nav-links">
+        <li><a href="/">Inicio</a></li>
+        <li><a href="/carrera/" class="activo" aria-current="page">Carrera</a></li>
+        <li><a href="/academico/">Académico</a></li>
+        <li><a href="/comunidad/">Comunidad</a></li>
+        <li><a href="/biblioteca/">Biblioteca</a></li>
+        <li><a href="/oportunidades/">Oportunidades</a></li>
+        <li><a href="/eventos/">Eventos</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main id="contenido">
+    <section class="malla-hero">
+      <div class="malla-hero-copy">
+        <p class="eyebrow"><span></span> Herramienta académica</p>
+        <h1>Malla curricular <em>interactiva</em></h1>
+        <p>Marca los cursos que ya aprobaste, descubre qué asignaturas se desbloquean y visualiza tu avance en créditos dentro del plan de estudios de Física UNT.</p>
+        <div class="malla-hero-actions">
+          <a class="button button-primary" href="#malla-interactiva">Usar la malla ↓</a>
+          <a class="text-link" href="/carrera/#malla">Ver malla informativa <span aria-hidden="true">↗</span></a>
+        </div>
+      </div>
+      <div class="malla-hero-aside" aria-label="Cómo usar la malla">
+        <span class="malla-index">01</span>
+        <strong>Haz clic en un curso para marcarlo como aprobado.</strong>
+        <p>Los cursos con prerrequisitos pendientes permanecen bloqueados hasta que completes los anteriores.</p>
+      </div>
+    </section>
+
+    <section class="malla-tool section-pad" id="malla-interactiva">
+      <div class="malla-tool-head">
+        <div>
+          <p class="eyebrow dark"><span></span> Tu progreso</p>
+          <h2>Avanza ciclo por ciclo.</h2>
+        </div>
+        <div class="malla-progress-meta">
+          <div id="contadorCreditos" class="contador-creditos" aria-live="polite">Créditos aprobados: 0 / 222</div>
+          <p>Tu progreso se guarda únicamente en este navegador.</p>
+        </div>
+      </div>
+
+      <div class="malla-legend" aria-label="Leyenda de estados">
+        <span><i class="legend-dot disponible"></i> Disponible</span>
+        <span><i class="legend-dot aprobado"></i> Aprobado</span>
+        <span><i class="legend-dot bloqueado"></i> Bloqueado</span>
+        <span><i class="legend-dot electivo"></i> Curso con opciones</span>
+      </div>
+
+      <div class="scroll-hint">Desliza horizontalmente para recorrer los diez ciclos →</div>
+
+      <div id="malla" class="malla-board">
+        <div class="tabla-ciclos" id="tablaCiclos"></div>
+      </div>
+
+      <div class="malla-note">
+        <strong>Importante.</strong>
+        <p>Esta herramienta es orientativa y no reemplaza el récord académico ni la información oficial de la Universidad Nacional de Trujillo.</p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-main">
+      <div><a class="brand footer-brand" href="/"><img src="/img/logo.svg" alt=""><span class="brand-copy"><strong>CEFUNT</strong><small>Física · UNT</small></span></a><p>La física se construye<br>en comunidad.</p></div>
+      <div class="footer-nav"><h3>Explora</h3><a href="/carrera/">Carrera</a><a href="/academico/">Académico</a><a href="/comunidad/">Comunidad</a><a href="/biblioteca/">Biblioteca</a><a href="/oportunidades/">Oportunidades</a><a href="/eventos/">Eventos</a></div>
+      <div class="footer-nav"><h3>Conecta</h3><a href="/contacto/">Contacto</a><a href="https://www.facebook.com/CEFUNT" target="_blank" rel="noopener">Facebook ↗</a><a href="https://www.instagram.com/c.e.f.u.n.t/" target="_blank" rel="noopener">Instagram ↗</a><a href="mailto:cefunt@unitru.edu.pe">Correo ↗</a></div>
+    </div>
+    <div class="footer-bottom"><span>© <span data-year>2026</span> CEFUNT</span><span>Universidad Nacional de Trujillo · Perú</span></div>
+  </footer>
+
+  <script src="/js/script.js"></script>
+  <script src="/js/malla.js"></script>
+</body>
+</html>

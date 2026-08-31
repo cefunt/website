@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Agenda de eventos académicos, científicos y de divulgación organizados por CEFUNT.">
+  <title>Eventos | CEFUNT</title>
+  <link rel="icon" href="/img/logo.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/styles/styles.css">
+
+  <link rel="canonical" href="https://cefunt.lat/eventos/">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="CEFUNT">
+  <meta property="og:title" content="Eventos | CEFUNT">
+  <meta property="og:description" content="Agenda de eventos académicos, científicos y de divulgación organizados por CEFUNT.">
+  <meta property="og:url" content="https://cefunt.lat/eventos/">
+  <meta property="og:image" content="https://cefunt.lat/img/logo.svg">
+  <meta name="twitter:card" content="summary">
+</head>
+<body>
+  <a class="skip-link" href="#contenido">Saltar al contenido</a>
+  <header class="site-header">
+    <a class="brand" href="/" aria-label="CEFUNT, inicio">
+      <img src="/img/logo.svg" alt="">
+      <span class="brand-copy"><strong>CEFUNT</strong><small>Física · UNT</small></span>
+    </a>
+    <button class="hamburguesa" id="hamburguesa" type="button" aria-label="Abrir menú" aria-expanded="false" aria-controls="nav-links">
+      <span></span><span></span><span></span>
+    </button>
+    <nav aria-label="Navegación principal">
+      <ul id="nav-links">
+        <li><a href="/">Inicio</a></li>
+        <li><a href="/carrera/">Carrera</a></li>
+        <li><a href="/academico/">Académico</a></li>
+        <li><a href="/comunidad/">Comunidad</a></li>
+        <li><a href="/biblioteca/">Biblioteca</a></li>
+        <li><a href="/oportunidades/">Oportunidades</a></li>
+        <li><a href="/eventos/" class="activo" aria-current="page">Eventos</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main id="contenido">
+    <section class="hero">
+      <h1>Eventos</h1>
+    </section>
+
+    <section class="page-intro section-pad">
+      <div class="section-index">01</div>
+      <div class="intro-heading reveal">
+        <p class="eyebrow dark"><span></span> Agenda CEFUNT</p>
+        <h2>Seminarios, talleres, clubes, Quantum Week y divulgación.</h2>
+      </div>
+      <div class="intro-copy reveal" data-delay="1">
+        <p>Consulta próximos eventos y revisa el historial de actividades académicas y de divulgación de CEFUNT.</p>
+        <p class="notice-text">Las fechas y datos de próximos eventos se publican únicamente cuando están confirmados.</p>
+      </div>
+    </section>
+
+    <section class="events-board section-pad">
+      <div class="split-head reveal">
+        <div>
+          <p class="eyebrow dark"><span></span> Calendario</p>
+          <h2>Próximos y anteriores</h2>
+        </div>
+        <p>Filtra la agenda por seminarios, Quantum Week, clubes, talleres, divulgación o charlas.</p>
+      </div>
+      <p class="data-note reveal" data-events-notice></p>
+      <div class="filter-pills reveal" data-event-filters aria-label="Filtrar eventos"></div>
+      <div class="event-columns">
+        <section class="event-column">
+          <h3>Próximos eventos</h3>
+          <div class="event-list" data-event-list="upcoming"></div>
+        </section>
+        <section class="event-column">
+          <h3>Eventos anteriores</h3>
+          <div class="event-list" data-event-list="past"></div>
+        </section>
+      </div>
+    </section>
+
+    <section class="career-fields section-pad">
+      <div class="split-head reveal">
+        <div>
+          <p class="eyebrow"><span></span> Categorías</p>
+          <h2>La vida académica también se organiza.</h2>
+        </div>
+        <p>Categorías listas para clasificar actividades y facilitar que estudiantes encuentren lo que necesitan.</p>
+      </div>
+      <div class="tag-grid reveal">
+        <span>Seminarios</span>
+        <span>Quantum Week</span>
+        <span>Clubes</span>
+        <span>Divulgación</span>
+        <span>Talleres</span>
+        <span>Concursos</span>
+        <span>Charlas</span>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-main">
+      <div><a class="brand footer-brand" href="/"><img src="/img/logo.svg" alt=""><span class="brand-copy"><strong>CEFUNT</strong><small>Física · UNT</small></span></a><p>La física se construye<br>en comunidad.</p></div>
+      <div class="footer-nav"><h3>Explora</h3><a href="/carrera/">Carrera</a><a href="/academico/">Académico</a><a href="/comunidad/">Comunidad</a><a href="/biblioteca/">Biblioteca</a><a href="/oportunidades/">Oportunidades</a><a href="/eventos/">Eventos</a><a href="/egresados/">Egresados</a></div>
+      <div class="footer-nav"><h3>Conecta</h3><a href="/contacto/">Contacto</a><a href="https://www.facebook.com/CEFUNT" target="_blank" rel="noopener">Facebook ↗</a><a href="https://www.instagram.com/c.e.f.u.n.t/" target="_blank" rel="noopener">Instagram ↗</a><a href="mailto:cefunt@unitru.edu.pe">Correo ↗</a></div>
+    </div>
+    <div class="footer-bottom"><span>© <span data-year>2026</span> CEFUNT</span><span>Universidad Nacional de Trujillo · Perú</span></div>
+  </footer>
+  <script src="/js/script.js"></script>
+</body>
+</html>

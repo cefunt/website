@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Biblioteca académica estudiantil de CEFUNT con recursos por área para Física UNT.">
+  <title>Biblioteca | CEFUNT</title>
+  <link rel="icon" href="/img/logo.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/styles/styles.css">
+
+  <link rel="canonical" href="https://cefunt.lat/biblioteca/">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="CEFUNT">
+  <meta property="og:title" content="Biblioteca | CEFUNT">
+  <meta property="og:description" content="Biblioteca académica estudiantil de CEFUNT con recursos por área para Física UNT.">
+  <meta property="og:url" content="https://cefunt.lat/biblioteca/">
+  <meta property="og:image" content="https://cefunt.lat/img/logo.svg">
+  <meta name="twitter:card" content="summary">
+</head>
+<body>
+  <a class="skip-link" href="#contenido">Saltar al contenido</a>
+  <header class="site-header">
+    <a class="brand" href="/" aria-label="CEFUNT, inicio">
+      <img src="/img/logo.svg" alt="">
+      <span class="brand-copy"><strong>CEFUNT</strong><small>Física · UNT</small></span>
+    </a>
+    <button class="hamburguesa" id="hamburguesa" type="button" aria-label="Abrir menú" aria-expanded="false" aria-controls="nav-links">
+      <span></span><span></span><span></span>
+    </button>
+    <nav aria-label="Navegación principal">
+      <ul id="nav-links">
+        <li><a href="/">Inicio</a></li>
+        <li><a href="/carrera/">Carrera</a></li>
+        <li><a href="/academico/">Académico</a></li>
+        <li><a href="/comunidad/">Comunidad</a></li>
+        <li><a href="/biblioteca/" class="activo" aria-current="page">Biblioteca</a></li>
+        <li><a href="/oportunidades/">Oportunidades</a></li>
+        <li><a href="/eventos/">Eventos</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main id="contenido">
+    <section class="hero">
+      <h1>Biblioteca</h1>
+    </section>
+
+    <section class="library-intro section-pad">
+      <div class="library-image reveal">
+        <img src="/img/biblioteca.jpg" alt="Biblioteca y materiales de estudio de CEFUNT" loading="lazy">
+      </div>
+      <div class="library-copy reveal" data-delay="1">
+        <p class="eyebrow dark"><span></span> Biblioteca académica</p>
+        <h2>Un repositorio estudiantil para estudiar mejor.</h2>
+        <p>La biblioteca de CEFUNT organiza referencias, apuntes, problemas, software, simuladores y recursos web por áreas de Física. No aloja PDFs protegidos por copyright; los materiales compartidos deben ser abiertos, propios o autorizados.</p>
+        <div class="document-list light">
+          <a href="/biblioest/"><span>01</span><strong>Biblioteca estudiantil</strong><i>↗</i></a>
+          <a href="https://docs.google.com/forms/d/e/1FAIpQLSeokQEMUVupCJD3YdV4NNB9BK51HCeGUGdi3ANl-fuLMS1W4A/viewform" target="_blank" rel="noopener"><span>02</span><strong>Donar o sugerir material</strong><i>↗</i></a>
+        </div>
+      </div>
+    </section>
+
+    <section class="resource-hub section-pad">
+      <div class="split-head reveal">
+        <div>
+          <p class="eyebrow"><span></span> Recursos por área</p>
+          <h2>Libros sugeridos, apuntes, problemas y herramientas.</h2>
+        </div>
+        <p>Busca por tema o filtra por tipo de recurso para encontrar material con mayor rapidez.</p>
+      </div>
+      <p class="data-note invert reveal" data-resources-notice></p>
+      <div class="filter-row dark reveal">
+        <label for="resource-search">Buscar recurso</label>
+        <input id="resource-search" type="search" data-resource-search placeholder="Cuántica, Python, problemas, simuladores...">
+        <label for="resource-type">Tipo</label>
+        <select id="resource-type" data-resource-type></select>
+      </div>
+      <div class="resource-category-list" data-resource-list></div>
+    </section>
+
+    <section class="library-tools section-pad">
+      <div class="split-head reveal">
+        <div>
+          <p class="eyebrow dark"><span></span> Herramientas adicionales</p>
+          <h2>Consulta, simulación y trabajo científico.</h2>
+        </div>
+        <p>Recursos externos útiles para estudiar, preguntar, simular y programar.</p>
+      </div>
+      <div class="info-grid four">
+        <article class="info-card reveal">
+          <span>Q&A</span>
+          <h3>Physics Stack Exchange</h3>
+          <p>Comunidad de preguntas y respuestas para estudiantes y entusiastas de la física.</p>
+          <a class="text-link dark" href="https://physics.stackexchange.com" target="_blank" rel="noopener">Abrir recurso <span aria-hidden="true">↗</span></a>
+        </article>
+        <article class="info-card reveal" data-delay="1">
+          <span>Open</span>
+          <h3>arXiv</h3>
+          <p>Repositorio abierto de preprints en física, matemáticas y áreas afines.</p>
+          <a class="text-link dark" href="https://arxiv.org" target="_blank" rel="noopener">Abrir recurso <span aria-hidden="true">↗</span></a>
+        </article>
+        <article class="info-card reveal" data-delay="2">
+          <span>Lab</span>
+          <h3>PhET</h3>
+          <p>Simulaciones interactivas de física y ciencias para reforzar conceptos.</p>
+          <a class="text-link dark" href="https://phet.colorado.edu/es/" target="_blank" rel="noopener">Abrir recurso <span aria-hidden="true">↗</span></a>
+        </article>
+        <article class="info-card reveal">
+          <span>Code</span>
+          <h3>Jupyter</h3>
+          <p>Notebooks para cálculo, gráficos, análisis de datos y simulación científica.</p>
+          <a class="text-link dark" href="https://jupyter.org/" target="_blank" rel="noopener">Abrir recurso <span aria-hidden="true">↗</span></a>
+        </article>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-main">
+      <div><a class="brand footer-brand" href="/"><img src="/img/logo.svg" alt=""><span class="brand-copy"><strong>CEFUNT</strong><small>Física · UNT</small></span></a><p>La física se construye<br>en comunidad.</p></div>
+      <div class="footer-nav"><h3>Explora</h3><a href="/carrera/">Carrera</a><a href="/academico/">Académico</a><a href="/comunidad/">Comunidad</a><a href="/biblioteca/">Biblioteca</a><a href="/oportunidades/">Oportunidades</a><a href="/eventos/">Eventos</a><a href="/egresados/">Egresados</a></div>
+      <div class="footer-nav"><h3>Conecta</h3><a href="/contacto/">Contacto</a><a href="https://www.facebook.com/CEFUNT" target="_blank" rel="noopener">Facebook ↗</a><a href="https://www.instagram.com/c.e.f.u.n.t/" target="_blank" rel="noopener">Instagram ↗</a><a href="mailto:cefunt@unitru.edu.pe">Correo ↗</a></div>
+    </div>
+    <div class="footer-bottom"><span>© <span data-year>2026</span> CEFUNT</span><span>Universidad Nacional de Trujillo · Perú</span></div>
+  </footer>
+  <script src="/js/script.js"></script>
+</body>
+</html>

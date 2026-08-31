@@ -1,0 +1,29 @@
+CEFUNT · DESPLIEGUE FINAL
+
+Dominio principal: https://cefunt.lat
+
+GitHub Pages
+1. Sube TODO el contenido de esta carpeta a la raíz del repositorio.
+2. Settings > Pages > Custom domain: cefunt.lat
+3. Activa Enforce HTTPS cuando GitHub lo permita.
+4. El archivo CNAME ya contiene cefunt.lat.
+
+DNS para el dominio raíz (@), según GitHub Pages:
+A 185.199.108.153
+A 185.199.109.153
+A 185.199.110.153
+A 185.199.111.153
+
+Para www, puedes crear un CNAME hacia TU-USUARIO.github.io y dejar que GitHub redirija al dominio principal.
+
+Rutas limpias:
+/academico/
+/carrera/
+/malla/
+/biblioteca/
+/admin-silabos/
+
+Supabase:
+- La publishable key puede estar en el frontend.
+- Nunca publiques service_role/secret keys.
+- setup.sql y add-elective-support.sql son archivos de configuración; NO se ejecutan automáticamente en GitHub.
