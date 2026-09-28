@@ -1,5 +1,5 @@
 {
-  "notice": "Consulta las próximas actividades y los eventos realizados por CEFUNT.",
+  "notice": "Actualmente no hay eventos próximos confirmados. Aquí puedes revisar las actividades realizadas por CEFUNT.",
   "events": [
     {
       "id": "concurso-posters-fisica-2026",
@@ -7,10 +7,10 @@
       "category": "Concurso",
       "date": "2026-10-13",
       "time": "13 de octubre de 2026, de 14:00 a 16:00",
-      "place": "Escuela Profesional de Física - Universidad Nacional de Trujillo",
+      "place": "Escuela de Física",
       "speaker": "Estudiantes de pregrado de Física",
       "organizer": "Facultad de Ciencias Físicas y Matemáticas, Escuela Profesional de Física y CEFUNT",
-      "description": "Concurso académico realizado en el marco del aniversario de la Facultad de Ciencias Físicas y Matemáticas, orientado a la presentación, discusión y evaluación de trabajos desarrollados por estudiantes de pregrado de Física. La actividad busca promover la investigación, el intercambio de conocimientos y la participación estudiantil entre los distintos ciclos de la carrera.",
+      "description": "Concurso académico realizado en el marco del aniversario de la Facultad de Ciencias Físicas y Matemáticas, orientado a la presentación, discusión y evaluación de trabajos desarrollados por estudiantes de pregrado de Física, promoviendo la investigación y el intercambio de conocimientos entre los distintos ciclos.",
       "image": "/img/eventos/concurso-posters-fisica-2026.jpg",
       "status": "upcoming",
       "url": "https://forms.gle/cbeSw91aoWaDqDCKA",
@@ -43,7 +43,7 @@
       "description": "Semana académica dedicada a la mecánica cuántica, organizada en el marco del World Quantum Day con ponencias nacionales e internacionales.",
       "image": "/img/eventos/quantum2025.jpg",
       "status": "past",
-      "url": "https://sites.google.com/unitru.edu.pe/qwunt2025",
+      "url": "https://sites.google.com/view/qwunt2025/inicio",
       "published": true
     },
     {
